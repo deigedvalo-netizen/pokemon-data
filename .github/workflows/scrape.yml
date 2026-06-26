@@ -1,0 +1,39 @@
+name: Collect Pokemon card prices
+
+on:
+  schedule:
+    - cron: "0 7 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Collect prices
+        env:
+          POKEMONTCG_API_KEY: ${{ secrets.POKEMONTCG_API_KEY }}
+        run: python scraper.py --db pokemon_prices.db
+      - name: Commit updated database
+        run: |
+          git config user.name  "price-bot"
+          git config user.email "price-bot@users.noreply.github.com"
+          git add pokemon_prices.db
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Price snapshot $(date -u +%Y-%m-%d)"
+            git push
+          fi
