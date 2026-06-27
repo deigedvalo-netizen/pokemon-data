@@ -235,35 +235,53 @@ def main():
     note = ""
 
     print(f"[{datetime.now().isoformat(timespec='seconds')}] Collecting prices for {today}")
-    try:
-        while True:
+    total = 0
+    failed_pages = 0
+    while True:
+        try:
             data = fetch_page(session, page, args.page_size, args.query)
-            batch = data.get("data", [])
-            total = data.get("totalCount", 0)
-            if not batch:
-                break
-
-            rows = []
-            for c in batch:
-                upsert_card(conn, c, today)
-                rows.extend(snapshot_rows(c, today))
-            save_snapshots(conn, rows)
-            conn.commit()
-
-            cards_seen += len(batch)
-            snap_count += len(rows)
-            print(f"  page {page}: +{len(batch)} cards ({cards_seen}/{total}), +{len(rows)} prices")
-
-            if args.max_pages and page >= args.max_pages:
-                break
-            if cards_seen >= total:
+        except Exception as e:  # noqa: BLE001 — skip a bad page, don't abort the whole run
+            failed_pages += 1
+            print(f"WARN: page {page} failed after retries ({type(e).__name__}: {e}) — skipping", file=sys.stderr)
+            if failed_pages >= 15:
+                ok = False
+                note = f"aborted after {failed_pages} failed pages"
                 break
             page += 1
-            time.sleep(args.sleep)
-    except Exception as e:  # noqa: BLE001
+            time.sleep(2.0)
+            if total and cards_seen >= total:
+                break
+            continue
+
+        batch = data.get("data", [])
+        total = data.get("totalCount", total)
+        if not batch:
+            break
+
+        rows = []
+        for c in batch:
+            upsert_card(conn, c, today)
+            rows.extend(snapshot_rows(c, today))
+        save_snapshots(conn, rows)
+        conn.commit()
+
+        cards_seen += len(batch)
+        snap_count += len(rows)
+        print(f"  page {page}: +{len(batch)} cards ({cards_seen}/{total}), +{len(rows)} prices")
+
+        if args.max_pages and page >= args.max_pages:
+            break
+        if total and cards_seen >= total:
+            break
+        page += 1
+        time.sleep(args.sleep)
+
+    # A few skipped pages is fine — keep what we collected. Only fail on zero data.
+    if cards_seen == 0:
         ok = False
-        note = f"{type(e).__name__}: {e}"
-        print(f"ERROR: {note}", file=sys.stderr)
+        note = note or "no cards collected"
+    elif failed_pages:
+        note = note or f"{failed_pages} pages skipped"
 
     conn.execute(
         "INSERT INTO run_log (run_at, captured_date, cards_seen, snapshots, ok, note) VALUES (?,?,?,?,?,?)",
