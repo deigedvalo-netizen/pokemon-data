@@ -104,7 +104,11 @@ CREATE TABLE IF NOT EXISTS run_log (
 
 
 def connect(db_path):
-    conn = sqlite3.connect(db_path)
+    conn = sqlite3.connect(db_path, timeout=30)
+    # WAL mode: an interrupted write can no longer corrupt the main DB file
+    # (fix for the 2026-06-28 corruption incident).
+    conn.execute("PRAGMA journal_mode=WAL;")
+    conn.execute("PRAGMA synchronous=NORMAL;")
     conn.executescript(SCHEMA)
     return conn
 
@@ -288,6 +292,9 @@ def main():
         (datetime.now(timezone.utc).isoformat(), today, cards_seen, snap_count, 1 if ok else 0, note),
     )
     conn.commit()
+    # Fold the WAL file back into the main DB so only pokemon_prices.db needs
+    # to be committed/copied (no stray -wal/-shm files).
+    conn.execute("PRAGMA wal_checkpoint(TRUNCATE);")
     conn.close()
 
     print(f"Done. {cards_seen} cards, {snap_count} price rows for {today}. ok={ok}")
