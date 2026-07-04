@@ -3,6 +3,7 @@ name: Collect Pokemon card prices
 on:
   schedule:
     - cron: "17 13 * * *"
+    - cron: "17 1 * * *"
   workflow_dispatch: {}
 
 permissions:
