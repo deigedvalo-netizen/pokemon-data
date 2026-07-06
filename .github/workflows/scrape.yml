@@ -46,5 +46,7 @@ jobs:
             echo "No changes to commit."
           else
             git commit -m "Price snapshot $(date -u +%Y-%m-%d)"
+            # Pull first: repo may have moved while this job ran (e.g. manual uploads)
+            git pull --rebase origin main
             git push
           fi
