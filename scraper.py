@@ -241,11 +241,13 @@ def main():
     print(f"[{datetime.now().isoformat(timespec='seconds')}] Collecting prices for {today}")
     total = 0
     failed_pages = 0
+    skipped = []  # pages that failed after HTTP retries; re-attempted at end of run
     while True:
         try:
             data = fetch_page(session, page, args.page_size, args.query)
         except Exception as e:  # noqa: BLE001 — skip a bad page, don't abort the whole run
             failed_pages += 1
+            skipped.append(page)
             print(f"WARN: page {page} failed after retries ({type(e).__name__}: {e}) — skipping", file=sys.stderr)
             if failed_pages >= 15:
                 ok = False
@@ -280,12 +282,41 @@ def main():
         page += 1
         time.sleep(args.sleep)
 
+    # Second chance: re-attempt skipped pages once at the end of the run.
+    # By now the transient API hiccup has usually passed, so this recovers
+    # most one-day gaps (e.g. the 2026-07-02/07-04 runs that lost 500-750 cards).
+    still_skipped = []
+    if skipped and ok:
+        print(f"Retrying {len(skipped)} skipped page(s): {skipped}")
+        for p in skipped:
+            time.sleep(3.0)
+            try:
+                data = fetch_page(session, p, args.page_size, args.query)
+            except Exception as e:  # noqa: BLE001
+                still_skipped.append(p)
+                print(f"WARN: page {p} failed again ({type(e).__name__}: {e})", file=sys.stderr)
+                continue
+            batch = data.get("data", [])
+            rows = []
+            for c in batch:
+                upsert_card(conn, c, today)
+                rows.extend(snapshot_rows(c, today))
+            save_snapshots(conn, rows)
+            conn.commit()
+            cards_seen += len(batch)
+            snap_count += len(rows)
+            print(f"  retry page {p}: recovered {len(batch)} cards, +{len(rows)} prices")
+    elif skipped:
+        still_skipped = skipped  # aborted run: API is clearly down, don't hammer it
+
     # A few skipped pages is fine — keep what we collected. Only fail on zero data.
     if cards_seen == 0:
         ok = False
         note = note or "no cards collected"
-    elif failed_pages:
-        note = note or f"{failed_pages} pages skipped"
+    elif still_skipped:
+        note = note or f"{len(still_skipped)} pages skipped even after retry: {still_skipped}"
+    elif skipped:
+        note = note or f"{len(skipped)} pages recovered on retry"
 
     conn.execute(
         "INSERT INTO run_log (run_at, captured_date, cards_seen, snapshots, ok, note) VALUES (?,?,?,?,?,?)",
