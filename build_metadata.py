@@ -109,6 +109,15 @@ def to_iso_date(api_date):
     return api_date.replace("/", "-")
 
 
+def rarity_or_default(rarity, supertype):
+    """The API leaves rarity NULL for basic Energies and fixed-product sets
+    (McDonald's, Trainer Kits, Southern Islands...). Fill deterministically so
+    the table has no holes: Energy -> 'Common', anything else -> 'Promo'."""
+    if rarity:
+        return rarity
+    return "Common" if supertype == "Energy" else "Promo"
+
+
 def card_row(c, now_iso):
     st = c.get("set") or {}
     legal = (st.get("legalities") or {})
@@ -118,7 +127,7 @@ def card_row(c, now_iso):
         st.get("name"),
         st.get("id"),
         c.get("number"),
-        c.get("rarity"),
+        rarity_or_default(c.get("rarity"), c.get("supertype")),
         normalize_species(c.get("name"), c.get("supertype")),
         to_iso_date(st.get("releaseDate")),
         1 if legal.get("standard") == "Legal" else 0,
@@ -135,7 +144,8 @@ def sync_from_local(conn):
     for cid, name, supertype, rarity, set_id, set_name, rel, num in conn.execute(
         "SELECT id, name, supertype, rarity, set_id, set_name, set_release_date, number FROM cards"
     ):
-        rows.append((cid, name, set_name, set_id, num, rarity,
+        rows.append((cid, name, set_name, set_id, num,
+                     rarity_or_default(rarity, supertype),
                      normalize_species(name, supertype), to_iso_date(rel), None, now_iso))
     conn.executemany(UPSERT_LOCAL, rows)
     conn.commit()
