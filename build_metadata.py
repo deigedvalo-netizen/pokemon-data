@@ -145,25 +145,61 @@ def sync_from_local(conn):
 def sync(conn, args):
     session = make_session()
     now_iso = datetime.now(timezone.utc).isoformat(timespec="seconds")
-    page, seen, total = 1, 0, 0
-    while True:
+
+    def fetch(p):
         r = session.get(API_URL, params={
-            "page": page, "pageSize": args.page_size, "select": SELECT_FIELDS,
+            "page": p, "pageSize": args.page_size, "select": SELECT_FIELDS,
         }, timeout=60)
         r.raise_for_status()
-        data = r.json()
+        return r.json()
+
+    def store(batch):
+        conn.executemany(UPSERT, [card_row(c, now_iso) for c in batch])
+        conn.commit()
+
+    # Same fault tolerance as scraper.py: a flaky page is skipped, not fatal,
+    # and skipped pages get one more attempt at the end of the run.
+    page, seen, total = 1, 0, 0
+    skipped = []
+    while True:
+        try:
+            data = fetch(page)
+        except Exception as e:  # noqa: BLE001
+            skipped.append(page)
+            print(f"WARN: page {page} failed after retries ({type(e).__name__}: {e}) — skipping",
+                  file=sys.stderr)
+            if len(skipped) >= 15:
+                print("Too many failed pages — API is down; keeping what we have.", file=sys.stderr)
+                break
+            page += 1
+            time.sleep(2.0)
+            if total and seen >= total:
+                break
+            continue
         batch = data.get("data", [])
         total = data.get("totalCount", total)
         if not batch:
             break
-        conn.executemany(UPSERT, [card_row(c, now_iso) for c in batch])
-        conn.commit()
+        store(batch)
         seen += len(batch)
         print(f"  page {page}: {seen}/{total}")
         if (args.max_pages and page >= args.max_pages) or (total and seen >= total):
             break
         page += 1
         time.sleep(args.sleep)
+
+    if skipped and len(skipped) < 15:
+        print(f"Retrying {len(skipped)} skipped page(s): {skipped}")
+        for p in skipped:
+            time.sleep(3.0)
+            try:
+                batch = fetch(p).get("data", [])
+            except Exception as e:  # noqa: BLE001
+                print(f"WARN: page {p} failed again ({type(e).__name__}: {e})", file=sys.stderr)
+                continue
+            store(batch)
+            seen += len(batch)
+            print(f"  retry page {p}: recovered {len(batch)} cards")
     return seen
 
 
