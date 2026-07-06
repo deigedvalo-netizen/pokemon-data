@@ -1,0 +1,42 @@
+name: Refresh cards_metadata (weekly)
+
+on:
+  schedule:
+    - cron: "7 14 * * 0"   # Sundays 14:07 UTC — offset from daily scrapes
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape            # same group as daily scrape: never write the DB concurrently
+  cancel-in-progress: false
+
+jobs:
+  metadata:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Restore database from compressed copy
+        run: |
+          if [ -f pokemon_prices.db.gz ] && [ ! -f pokemon_prices.db ]; then
+            gunzip -k pokemon_prices.db.gz
+          fi
+      - name: Build/refresh cards_metadata
+        env:
+          POKEMONTCG_API_KEY: ${{ secrets.POKEMONTCG_API_KEY }}
+        run: python build_metadata.py --db pokemon_prices.db
+      - name: Compress database
+        run: gzip -9 -c pokemon_prices.db > pokemon_prices.db.gz
+      - name: Commit updated data
+        run: |
+          git config user.name "metadata-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add pokemon_prices.db.gz
+          git commit -m "Weekly cards_metadata refresh" || echo "no changes"
+          git push
