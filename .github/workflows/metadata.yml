@@ -31,6 +31,8 @@ jobs:
         env:
           POKEMONTCG_API_KEY: ${{ secrets.POKEMONTCG_API_KEY }}
         run: python build_metadata.py --db pokemon_prices.db
+      - name: Seed manual tags (fills NULLs only, never overwrites hand edits)
+        run: python fill_manual_tags.py --db pokemon_prices.db
       # Run even if the build step exited non-zero (validation warnings):
       # whatever was synced is still worth saving.
       - name: Compress database
