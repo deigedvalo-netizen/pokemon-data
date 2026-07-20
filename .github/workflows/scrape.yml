@@ -32,6 +32,15 @@ jobs:
         env:
           POKEMONTCG_API_KEY: ${{ secrets.POKEMONTCG_API_KEY }}
         run: python scraper.py --db pokemon_prices.db
+      - name: Collect PSA graded prices (watchlist)
+        # Skips itself politely if the PPT_API_KEY secret isn't set yet.
+        # Runs only on the first (13:17 UTC) schedule slot + manual runs, so the
+        # 100/day free-tier credits aren't split across two runs.
+        if: github.event.schedule != '17 1 * * *'
+        continue-on-error: true
+        env:
+          PPT_API_KEY: ${{ secrets.PPT_API_KEY }}
+        run: python graded_scraper.py --db pokemon_prices.db --json graded-premiums.json
       - name: Export site JSON
         run: python export_json.py pokemon_prices.db price-data.json
       - name: Generate 7-day predictions
@@ -44,11 +53,15 @@ jobs:
           git config user.email "price-bot@users.noreply.github.com"
           git rm --cached --ignore-unmatch --quiet pokemon_prices.db
           git add pokemon_prices.db.gz price-data.json predictions.json
+          [ -f graded-premiums.json ] && git add graded-premiums.json || true
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
             git commit -m "Price snapshot $(date -u +%Y-%m-%d)"
-            # Pull first: repo may have moved while this job ran (e.g. manual uploads)
-            git pull --rebase origin main
+            # Pull first: repo may have moved while this job ran (e.g. manual uploads).
+            # -X theirs: on conflict in generated files (db.gz, jsons), keep OUR
+            # freshly built versions instead of failing and losing the snapshot.
+            # (During rebase, "theirs" = the commit being replayed, i.e. ours.)
+            git pull --rebase -X theirs origin main
             git push
           fi
