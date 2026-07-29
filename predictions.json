@@ -1,7 +1,7 @@
 {
- "generated": "2026-07-29T04:55:35Z",
+ "generated": "2026-07-29T15:43:25Z",
  "horizon_days": 7,
- "count": 2181,
+ "count": 2183,
  "disclaimer": "Early-stage statistical estimates, not financial advice.",
  "predictions": [
   {
@@ -173,6 +173,18 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "hgss4-18",
+   "current_price": 234.28,
+   "pred_7d_pct": 15.16,
+   "pred_7d_price": 269.8,
+   "direction": "up",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "bw6-124",
    "current_price": 469.95,
    "pred_7d_pct": 13.02,
@@ -204,6 +216,18 @@
    "direction": "up",
    "confidence": "low",
    "tier": "S",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "neo4-8",
+   "current_price": 95.81,
+   "pred_7d_pct": -10.03,
+   "pred_7d_price": 86.2,
+   "direction": "down",
+   "confidence": "low",
+   "tier": "A",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -377,6 +401,18 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "ex6-67",
+   "current_price": 200.0,
+   "pred_7d_pct": 6.22,
+   "pred_7d_price": 212.45,
+   "direction": "up",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "ecard2-150",
    "current_price": 675.0,
    "pred_7d_pct": -5.99,
@@ -432,6 +468,18 @@
    "direction": "up",
    "confidence": "low",
    "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "base5-83",
+   "current_price": 352.75,
+   "pred_7d_pct": 5.1,
+   "pred_7d_price": 370.74,
+   "direction": "up",
+   "confidence": "low",
+   "tier": "S",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -521,6 +569,18 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "ex3-99",
+   "current_price": 115.91,
+   "pred_7d_pct": 4.52,
+   "pred_7d_price": 121.15,
+   "direction": "up",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "ecard2-H31",
    "current_price": 105.83,
    "pred_7d_pct": -4.48,
@@ -576,6 +636,18 @@
    "direction": "down",
    "confidence": "low",
    "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "ex14-100",
+   "current_price": 750.0,
+   "pred_7d_pct": -4.05,
+   "pred_7d_price": 719.61,
+   "direction": "down",
+   "confidence": "low",
+   "tier": "S",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -641,6 +713,18 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "base6-62",
+   "current_price": 101.99,
+   "pred_7d_pct": 3.58,
+   "pred_7d_price": 105.64,
+   "direction": "up",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "ex2-20",
    "current_price": 75.0,
    "pred_7d_pct": 3.55,
@@ -657,6 +741,18 @@
    "current_price": 101.97,
    "pred_7d_pct": 3.52,
    "pred_7d_price": 105.56,
+   "direction": "up",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "ex7-65",
+   "current_price": 231.32,
+   "pred_7d_pct": 3.5,
+   "pred_7d_price": 239.42,
    "direction": "up",
    "confidence": "low",
    "tier": "A",
@@ -833,6 +929,18 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "base6-48",
+   "current_price": 100.84,
+   "pred_7d_pct": 2.9,
+   "pred_7d_price": 103.76,
+   "direction": "up",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "ex11-60",
    "current_price": 74.62,
    "pred_7d_pct": 2.9,
@@ -905,6 +1013,18 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "ex7-25",
+   "current_price": 62.4,
+   "pred_7d_pct": 2.63,
+   "pred_7d_price": 64.04,
+   "direction": "up",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "ex5-96",
    "current_price": 296.24,
    "pred_7d_pct": 2.54,
@@ -965,13 +1085,13 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "neo4-8",
-   "current_price": 174.99,
-   "pred_7d_pct": -2.41,
-   "pred_7d_price": 170.78,
-   "direction": "down",
+   "card_id": "ex6-65",
+   "current_price": 52.5,
+   "pred_7d_pct": 2.41,
+   "pred_7d_price": 53.76,
+   "direction": "up",
    "confidence": "low",
-   "tier": "A",
+   "tier": "B",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -1037,10 +1157,22 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "ex15-71",
+   "current_price": 77.4,
+   "pred_7d_pct": 2.23,
+   "pred_7d_price": 79.13,
+   "direction": "up",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "svp-131",
-   "current_price": 83.68,
+   "current_price": 83.67,
    "pred_7d_pct": -2.2,
-   "pred_7d_price": 81.84,
+   "pred_7d_price": 81.83,
    "direction": "down",
    "confidence": "low",
    "tier": "A",
@@ -1121,6 +1253,18 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "ex11-14",
+   "current_price": 95.73,
+   "pred_7d_pct": 2.04,
+   "pred_7d_price": 97.68,
+   "direction": "up",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "ex12-13",
    "current_price": 51.74,
    "pred_7d_pct": 2.03,
@@ -1150,6 +1294,18 @@
    "pred_7d_pct": -2.01,
    "pred_7d_price": 75.9,
    "direction": "down",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "hsp-HGSS20",
+   "current_price": 71.45,
+   "pred_7d_pct": 1.97,
+   "pred_7d_price": 72.85,
+   "direction": "up",
    "confidence": "low",
    "tier": "A",
    "meta_card": false,
@@ -1229,6 +1385,18 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "sv4pt5-202",
+   "current_price": 59.56,
+   "pred_7d_pct": -1.86,
+   "pred_7d_price": 58.45,
+   "direction": "down",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "swshp-SWSH022",
    "current_price": 69.42,
    "pred_7d_pct": 1.86,
@@ -1272,6 +1440,30 @@
    "direction": "up",
    "confidence": "low",
    "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "swsh9tg-TG17",
+   "current_price": 73.32,
+   "pred_7d_pct": -1.84,
+   "pred_7d_price": 71.97,
+   "direction": "down",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "xy6-105",
+   "current_price": 434.72,
+   "pred_7d_pct": 1.83,
+   "pred_7d_price": 442.69,
+   "direction": "up",
+   "confidence": "low",
+   "tier": "S",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -1325,6 +1517,42 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "sv3pt5-170",
+   "current_price": 94.29,
+   "pred_7d_pct": 1.72,
+   "pred_7d_price": 95.92,
+   "direction": "up",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "sm10-20",
+   "current_price": 60.43,
+   "pred_7d_pct": 1.71,
+   "pred_7d_price": 61.47,
+   "direction": "up",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "sm11-222",
+   "current_price": 180.61,
+   "pred_7d_pct": 1.71,
+   "pred_7d_price": 183.71,
+   "direction": "up",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "swshp-SWSH068",
    "current_price": 249.99,
    "pred_7d_pct": 1.71,
@@ -1341,6 +1569,18 @@
    "current_price": 153.0,
    "pred_7d_pct": 1.69,
    "pred_7d_price": 155.58,
+   "direction": "up",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "sm8-206",
+   "current_price": 110.46,
+   "pred_7d_pct": 1.68,
+   "pred_7d_price": 112.32,
    "direction": "up",
    "confidence": "low",
    "tier": "A",
@@ -1373,6 +1613,18 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "xy7-98",
+   "current_price": 1069.91,
+   "pred_7d_pct": 1.65,
+   "pred_7d_price": 1087.58,
+   "direction": "up",
+   "confidence": "low",
+   "tier": "S",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "base3-6",
    "current_price": 143.38,
    "pred_7d_pct": 1.64,
@@ -1397,10 +1649,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "swsh11tg-TG05",
-   "current_price": 51.27,
-   "pred_7d_pct": -1.61,
-   "pred_7d_price": 50.44,
+   "card_id": "sv6-217",
+   "current_price": 55.6,
+   "pred_7d_pct": -1.64,
+   "pred_7d_price": 54.69,
    "direction": "down",
    "confidence": "low",
    "tier": "A",
@@ -1416,6 +1668,30 @@
    "direction": "up",
    "confidence": "low",
    "tier": "S",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "ex9-72",
+   "current_price": 57.65,
+   "pred_7d_pct": 1.6,
+   "pred_7d_price": 58.57,
+   "direction": "up",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "xy11-112",
+   "current_price": 57.18,
+   "pred_7d_pct": 1.59,
+   "pred_7d_price": 58.09,
+   "direction": "up",
+   "confidence": "low",
+   "tier": "A",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -1440,6 +1716,42 @@
    "direction": "down",
    "confidence": "low",
    "tier": "S",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "np-26",
+   "current_price": 222.3,
+   "pred_7d_pct": 1.57,
+   "pred_7d_price": 225.79,
+   "direction": "up",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "ex13-83",
+   "current_price": 61.51,
+   "pred_7d_pct": 1.56,
+   "pred_7d_price": 62.47,
+   "direction": "up",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "ex14-64",
+   "current_price": 89.45,
+   "pred_7d_pct": 1.56,
+   "pred_7d_price": 90.84,
+   "direction": "up",
+   "confidence": "low",
+   "tier": "A",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -1476,18 +1788,6 @@
    "direction": "up",
    "confidence": "low",
    "tier": "B",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "sv4pt5-202",
-   "current_price": 60.86,
-   "pred_7d_pct": -1.48,
-   "pred_7d_price": 59.96,
-   "direction": "down",
-   "confidence": "low",
-   "tier": "A",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -1541,18 +1841,6 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "swsh9tg-TG17",
-   "current_price": 75.13,
-   "pred_7d_pct": -1.41,
-   "pred_7d_price": 74.07,
-   "direction": "down",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "ecard2-14",
    "current_price": 70.41,
    "pred_7d_pct": 1.4,
@@ -1577,11 +1865,11 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sv3pt5-170",
-   "current_price": 92.84,
-   "pred_7d_pct": 1.4,
-   "pred_7d_price": 94.14,
-   "direction": "up",
+   "card_id": "swsh12pt5gg-GG50",
+   "current_price": 104.41,
+   "pred_7d_pct": -1.4,
+   "pred_7d_price": 102.94,
+   "direction": "down",
    "confidence": "low",
    "tier": "A",
    "meta_card": false,
@@ -1613,10 +1901,46 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "sv2-211",
+   "current_price": 107.52,
+   "pred_7d_pct": -1.37,
+   "pred_7d_price": 106.04,
+   "direction": "down",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "sv5-205",
+   "current_price": 56.74,
+   "pred_7d_pct": -1.36,
+   "pred_7d_price": 55.97,
+   "direction": "down",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "base6-74",
    "current_price": 535.0,
    "pred_7d_pct": 1.35,
    "pred_7d_price": 542.21,
+   "direction": "up",
+   "confidence": "low",
+   "tier": "S",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "ex11-63",
+   "current_price": 249.0,
+   "pred_7d_pct": 1.35,
+   "pred_7d_price": 252.37,
    "direction": "up",
    "confidence": "low",
    "tier": "S",
@@ -1661,6 +1985,54 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "swsh11tg-TG05",
+   "current_price": 52.02,
+   "pred_7d_pct": -1.35,
+   "pred_7d_price": 51.32,
+   "direction": "down",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "swsh12pt5gg-GG45",
+   "current_price": 69.74,
+   "pred_7d_pct": -1.35,
+   "pred_7d_price": 68.8,
+   "direction": "down",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "ecard1-121",
+   "current_price": 79.7,
+   "pred_7d_pct": 1.34,
+   "pred_7d_price": 80.77,
+   "direction": "up",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "sm115-44",
+   "current_price": 63.54,
+   "pred_7d_pct": -1.33,
+   "pred_7d_price": 62.7,
+   "direction": "down",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "bwp-BW94",
    "current_price": 94.39,
    "pred_7d_pct": -1.31,
@@ -1678,18 +2050,6 @@
    "pred_7d_pct": 1.3,
    "pred_7d_price": 104.0,
    "direction": "up",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "sv6-217",
-   "current_price": 56.69,
-   "pred_7d_pct": -1.3,
-   "pred_7d_price": 55.95,
-   "direction": "down",
    "confidence": "low",
    "tier": "A",
    "meta_card": false,
@@ -1769,18 +2129,6 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sm115-44",
-   "current_price": 63.84,
-   "pred_7d_pct": -1.24,
-   "pred_7d_price": 63.05,
-   "direction": "down",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "dpp-DP11",
    "current_price": 84.16,
    "pred_7d_pct": -1.23,
@@ -1805,58 +2153,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sm10-20",
-   "current_price": 58.98,
-   "pred_7d_pct": 1.21,
-   "pred_7d_price": 59.69,
-   "direction": "up",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "bw5-83",
    "current_price": 56.8,
    "pred_7d_pct": 1.19,
    "pred_7d_price": 57.47,
-   "direction": "up",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "hgss1-113",
-   "current_price": 327.49,
-   "pred_7d_pct": -1.19,
-   "pred_7d_price": 323.61,
-   "direction": "down",
-   "confidence": "low",
-   "tier": "S",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "base6-48",
-   "current_price": 93.03,
-   "pred_7d_pct": 1.18,
-   "pred_7d_price": 94.13,
-   "direction": "up",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "svp-53",
-   "current_price": 81.29,
-   "pred_7d_pct": 1.18,
-   "pred_7d_price": 82.25,
    "direction": "up",
    "confidence": "low",
    "tier": "A",
@@ -1885,6 +2185,18 @@
    "confidence": "low",
    "tier": "A",
    "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "sv9-184",
+   "current_price": 117.46,
+   "pred_7d_pct": -1.17,
+   "pred_7d_price": 116.09,
+   "direction": "down",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": true,
    "model": "blend-v1",
    "as_of": "2026-07-29"
   },
@@ -1997,11 +2309,11 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "swsh12pt5gg-GG50",
-   "current_price": 106.09,
-   "pred_7d_pct": -1.12,
-   "pred_7d_price": 104.91,
-   "direction": "down",
+   "card_id": "bw8-131",
+   "current_price": 137.5,
+   "pred_7d_pct": 1.11,
+   "pred_7d_price": 139.03,
+   "direction": "up",
    "confidence": "low",
    "tier": "A",
    "meta_card": false,
@@ -2009,10 +2321,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "bw8-131",
-   "current_price": 137.5,
+   "card_id": "dp4-80",
+   "current_price": 78.58,
    "pred_7d_pct": 1.11,
-   "pred_7d_price": 139.03,
+   "pred_7d_price": 79.45,
    "direction": "up",
    "confidence": "low",
    "tier": "A",
@@ -2033,35 +2345,11 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sv7-169",
-   "current_price": 69.6,
-   "pred_7d_pct": -1.1,
-   "pred_7d_price": 68.83,
-   "direction": "down",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "sm8-149",
-   "current_price": 55.27,
-   "pred_7d_pct": -1.08,
-   "pred_7d_price": 54.67,
-   "direction": "down",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "swsh12pt5gg-GG45",
-   "current_price": 70.8,
-   "pred_7d_pct": -1.08,
-   "pred_7d_price": 70.04,
-   "direction": "down",
+   "card_id": "sm35-40",
+   "current_price": 161.02,
+   "pred_7d_pct": 1.1,
+   "pred_7d_price": 162.79,
+   "direction": "up",
    "confidence": "low",
    "tier": "A",
    "meta_card": false,
@@ -2070,9 +2358,105 @@
   },
   {
    "card_id": "sv9-187",
-   "current_price": 58.86,
+   "current_price": 58.76,
+   "pred_7d_pct": -1.1,
+   "pred_7d_price": 58.11,
+   "direction": "down",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "sv7-169",
+   "current_price": 69.65,
+   "pred_7d_pct": -1.09,
+   "pred_7d_price": 68.89,
+   "direction": "down",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "swsh12pt5gg-GG35",
+   "current_price": 88.61,
+   "pred_7d_pct": -1.08,
+   "pred_7d_price": 87.65,
+   "direction": "down",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "bw1-113",
+   "current_price": 104.12,
    "pred_7d_pct": -1.07,
-   "pred_7d_price": 58.23,
+   "pred_7d_price": 103.01,
+   "direction": "down",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "cel25-25",
+   "current_price": 64.58,
+   "pred_7d_pct": -1.05,
+   "pred_7d_price": 63.9,
+   "direction": "down",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "sv3pt5-173",
+   "current_price": 93.51,
+   "pred_7d_pct": -1.05,
+   "pred_7d_price": 92.52,
+   "direction": "down",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "sv10-230",
+   "current_price": 173.08,
+   "pred_7d_pct": -1.04,
+   "pred_7d_price": 171.29,
+   "direction": "down",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": true,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "sv4pt5-234",
+   "current_price": 308.44,
+   "pred_7d_pct": -1.03,
+   "pred_7d_price": 305.26,
+   "direction": "down",
+   "confidence": "low",
+   "tier": "S",
+   "meta_card": true,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "swsh2-189",
+   "current_price": 62.37,
+   "pred_7d_pct": -1.03,
+   "pred_7d_price": 61.73,
    "direction": "down",
    "confidence": "low",
    "tier": "A",
@@ -2086,6 +2470,18 @@
    "pred_7d_pct": 1.02,
    "pred_7d_price": 68.57,
    "direction": "up",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "sm8-149",
+   "current_price": 55.46,
+   "pred_7d_pct": -1.02,
+   "pred_7d_price": 54.9,
+   "direction": "down",
    "confidence": "low",
    "tier": "A",
    "meta_card": false,
@@ -2110,18 +2506,6 @@
    "pred_7d_pct": -1.01,
    "pred_7d_price": 89.09,
    "direction": "down",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "sm8-206",
-   "current_price": 106.9,
-   "pred_7d_pct": 1.01,
-   "pred_7d_price": 107.98,
-   "direction": "up",
    "confidence": "low",
    "tier": "A",
    "meta_card": false,
@@ -2189,6 +2573,18 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "me2-125",
+   "current_price": 784.63,
+   "pred_7d_pct": -0.97,
+   "pred_7d_price": 777.0,
+   "direction": "down",
+   "confidence": "low",
+   "tier": "S",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "pl2-RT4",
    "current_price": 52.5,
    "pred_7d_pct": 0.97,
@@ -2197,18 +2593,6 @@
    "confidence": "low",
    "tier": "A",
    "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "sv10-230",
-   "current_price": 173.72,
-   "pred_7d_pct": -0.97,
-   "pred_7d_price": 172.04,
-   "direction": "down",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": true,
    "model": "blend-v1",
    "as_of": "2026-07-29"
   },
@@ -2237,11 +2621,35 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "me2-125",
-   "current_price": 785.31,
-   "pred_7d_pct": -0.96,
-   "pred_7d_price": 777.8,
-   "direction": "down",
+   "card_id": "zsv10pt5-164",
+   "current_price": 51.26,
+   "pred_7d_pct": 0.95,
+   "pred_7d_price": 51.74,
+   "direction": "up",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "swsh12pt5gg-GG68",
+   "current_price": 136.51,
+   "pred_7d_pct": 0.94,
+   "pred_7d_price": 137.79,
+   "direction": "up",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "hgss1-114",
+   "current_price": 312.72,
+   "pred_7d_pct": 0.93,
+   "pred_7d_price": 315.63,
+   "direction": "up",
    "confidence": "low",
    "tier": "S",
    "meta_card": false,
@@ -2249,23 +2657,23 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sv9-184",
-   "current_price": 118.82,
-   "pred_7d_pct": -0.96,
-   "pred_7d_price": 117.68,
-   "direction": "down",
+   "card_id": "hgss2-88",
+   "current_price": 224.66,
+   "pred_7d_pct": 0.93,
+   "pred_7d_price": 226.74,
+   "direction": "up",
    "confidence": "low",
-   "tier": "A",
-   "meta_card": true,
+   "tier": "S",
+   "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "swsh12pt5gg-GG35",
-   "current_price": 89.17,
-   "pred_7d_pct": -0.96,
-   "pred_7d_price": 88.31,
-   "direction": "down",
+   "card_id": "ex16-12",
+   "current_price": 73.31,
+   "pred_7d_pct": 0.92,
+   "pred_7d_price": 73.98,
+   "direction": "up",
    "confidence": "low",
    "tier": "A",
    "meta_card": false,
@@ -2321,23 +2729,11 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sv3-223",
-   "current_price": 114.13,
-   "pred_7d_pct": -0.92,
-   "pred_7d_price": 113.08,
-   "direction": "down",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": true,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "sv5-205",
-   "current_price": 58.14,
-   "pred_7d_pct": -0.92,
-   "pred_7d_price": 57.61,
-   "direction": "down",
+   "card_id": "svp-53",
+   "current_price": 80.24,
+   "pred_7d_pct": 0.92,
+   "pred_7d_price": 80.98,
+   "direction": "up",
    "confidence": "low",
    "tier": "A",
    "meta_card": false,
@@ -2369,11 +2765,35 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "zsv10pt5-164",
-   "current_price": 51.17,
-   "pred_7d_pct": 0.91,
-   "pred_7d_price": 51.64,
-   "direction": "up",
+   "card_id": "swsh12pt5gg-GG38",
+   "current_price": 60.75,
+   "pred_7d_pct": -0.91,
+   "pred_7d_price": 60.2,
+   "direction": "down",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "sv3-223",
+   "current_price": 114.2,
+   "pred_7d_pct": -0.9,
+   "pred_7d_price": 113.17,
+   "direction": "down",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": true,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "swshp-SWSH262",
+   "current_price": 76.8,
+   "pred_7d_pct": -0.9,
+   "pred_7d_price": 76.11,
+   "direction": "down",
    "confidence": "low",
    "tier": "A",
    "meta_card": false,
@@ -2405,23 +2825,11 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "swsh2-189",
-   "current_price": 62.84,
-   "pred_7d_pct": -0.89,
-   "pred_7d_price": 62.28,
+   "card_id": "cel25c-4_A",
+   "current_price": 179.87,
+   "pred_7d_pct": -0.87,
+   "pred_7d_price": 178.3,
    "direction": "down",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "xy11-112",
-   "current_price": 55.27,
-   "pred_7d_pct": 0.89,
-   "pred_7d_price": 55.76,
-   "direction": "up",
    "confidence": "low",
    "tier": "A",
    "meta_card": false,
@@ -2441,18 +2849,6 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "cel25-25",
-   "current_price": 65.28,
-   "pred_7d_pct": -0.86,
-   "pred_7d_price": 64.72,
-   "direction": "down",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "gym1-6",
    "current_price": 95.53,
    "pred_7d_pct": 0.86,
@@ -2465,6 +2861,18 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "sv3pt5-199",
+   "current_price": 382.29,
+   "pred_7d_pct": -0.86,
+   "pred_7d_price": 379.01,
+   "direction": "down",
+   "confidence": "low",
+   "tier": "S",
+   "meta_card": true,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "xy4-34",
    "current_price": 87.84,
    "pred_7d_pct": -0.86,
@@ -2472,6 +2880,18 @@
    "direction": "down",
    "confidence": "low",
    "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "bw4-96",
+   "current_price": 238.0,
+   "pred_7d_pct": -0.85,
+   "pred_7d_price": 235.98,
+   "direction": "down",
+   "confidence": "low",
+   "tier": "S",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -2549,26 +2969,14 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "cel25c-4_A",
-   "current_price": 180.37,
-   "pred_7d_pct": -0.82,
-   "pred_7d_price": 178.88,
-   "direction": "down",
+   "card_id": "dp2-2",
+   "current_price": 60.86,
+   "pred_7d_pct": 0.81,
+   "pred_7d_price": 61.35,
+   "direction": "up",
    "confidence": "low",
    "tier": "A",
    "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "sv3pt5-199",
-   "current_price": 383.12,
-   "pred_7d_pct": -0.82,
-   "pred_7d_price": 379.99,
-   "direction": "down",
-   "confidence": "low",
-   "tier": "S",
-   "meta_card": true,
    "model": "blend-v1",
    "as_of": "2026-07-29"
   },
@@ -2609,10 +3017,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "xy5-55",
-   "current_price": 60.57,
+   "card_id": "xy1-141",
+   "current_price": 95.54,
    "pred_7d_pct": -0.8,
-   "pred_7d_price": 60.09,
+   "pred_7d_price": 94.77,
    "direction": "down",
    "confidence": "low",
    "tier": "A",
@@ -2633,6 +3041,18 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "swshp-SWSH181",
+   "current_price": 87.41,
+   "pred_7d_pct": 0.79,
+   "pred_7d_price": 88.1,
+   "direction": "up",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "base1-16",
    "current_price": 55.8,
    "pred_7d_pct": 0.78,
@@ -2645,10 +3065,34 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "cel25c-17_A",
+   "current_price": 110.49,
+   "pred_7d_pct": -0.78,
+   "pred_7d_price": 109.63,
+   "direction": "down",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "hgss1-110",
    "current_price": 73.45,
    "pred_7d_pct": 0.78,
    "pred_7d_price": 74.02,
+   "direction": "up",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "sv3pt5-171",
+   "current_price": 63.77,
+   "pred_7d_pct": 0.78,
+   "pred_7d_price": 64.27,
    "direction": "up",
    "confidence": "low",
    "tier": "A",
@@ -2717,6 +3161,30 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "sv3pt5-166",
+   "current_price": 85.99,
+   "pred_7d_pct": 0.77,
+   "pred_7d_price": 86.65,
+   "direction": "up",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "xyp-XY121",
+   "current_price": 201.58,
+   "pred_7d_pct": 0.77,
+   "pred_7d_price": 203.14,
+   "direction": "up",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "xyp-XY83",
    "current_price": 72.33,
    "pred_7d_pct": 0.77,
@@ -2777,10 +3245,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "ex11-42",
-   "current_price": 64.13,
+   "card_id": "base6-78",
+   "current_price": 80.99,
    "pred_7d_pct": 0.74,
-   "pred_7d_price": 64.6,
+   "pred_7d_price": 81.59,
    "direction": "up",
    "confidence": "low",
    "tier": "A",
@@ -2789,10 +3257,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "ex14-64",
-   "current_price": 85.93,
+   "card_id": "ex11-42",
+   "current_price": 64.13,
    "pred_7d_pct": 0.74,
-   "pred_7d_price": 86.57,
+   "pred_7d_price": 64.6,
    "direction": "up",
    "confidence": "low",
    "tier": "A",
@@ -2825,10 +3293,22 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sm12-143",
-   "current_price": 70.38,
-   "pred_7d_pct": 0.73,
-   "pred_7d_price": 70.89,
+   "card_id": "sv8-239",
+   "current_price": 184.28,
+   "pred_7d_pct": -0.74,
+   "pred_7d_price": 182.92,
+   "direction": "down",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "swshp-SWSH184",
+   "current_price": 81.98,
+   "pred_7d_pct": 0.74,
+   "pred_7d_price": 82.58,
    "direction": "up",
    "confidence": "low",
    "tier": "A",
@@ -2837,11 +3317,11 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sm35-40",
-   "current_price": 158.14,
-   "pred_7d_pct": 0.73,
-   "pred_7d_price": 159.3,
-   "direction": "up",
+   "card_id": "xy5-55",
+   "current_price": 60.76,
+   "pred_7d_pct": -0.74,
+   "pred_7d_price": 60.31,
+   "direction": "down",
    "confidence": "low",
    "tier": "A",
    "meta_card": false,
@@ -2849,10 +3329,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "bw1-113",
-   "current_price": 106.16,
-   "pred_7d_pct": -0.71,
-   "pred_7d_price": 105.41,
+   "card_id": "sv4-253",
+   "current_price": 58.71,
+   "pred_7d_pct": -0.73,
+   "pred_7d_price": 58.28,
    "direction": "down",
    "confidence": "low",
    "tier": "A",
@@ -2873,10 +3353,46 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sv8-239",
-   "current_price": 184.58,
+   "card_id": "smp-SM241",
+   "current_price": 245.9,
    "pred_7d_pct": -0.71,
-   "pred_7d_price": 183.28,
+   "pred_7d_price": 244.15,
+   "direction": "down",
+   "confidence": "low",
+   "tier": "S",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "sv2-203",
+   "current_price": 402.03,
+   "pred_7d_pct": -0.71,
+   "pred_7d_price": 399.18,
+   "direction": "down",
+   "confidence": "low",
+   "tier": "S",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "swsh9tg-TG22",
+   "current_price": 74.33,
+   "pred_7d_pct": -0.71,
+   "pred_7d_price": 73.8,
+   "direction": "down",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "dp2-124",
+   "current_price": 64.4,
+   "pred_7d_pct": -0.7,
+   "pred_7d_price": 63.95,
    "direction": "down",
    "confidence": "low",
    "tier": "A",
@@ -2897,6 +3413,30 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "swsh11tg-TG17",
+   "current_price": 117.58,
+   "pred_7d_pct": -0.7,
+   "pred_7d_price": 116.76,
+   "direction": "down",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "swsh8-251",
+   "current_price": 111.78,
+   "pred_7d_pct": 0.7,
+   "pred_7d_price": 112.56,
+   "direction": "up",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "ex3-65",
    "current_price": 75.49,
    "pred_7d_pct": 0.69,
@@ -2909,23 +3449,11 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sv2-211",
-   "current_price": 111.65,
+   "card_id": "sv10-240",
+   "current_price": 61.58,
    "pred_7d_pct": -0.69,
-   "pred_7d_price": 110.88,
+   "pred_7d_price": 61.15,
    "direction": "down",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "sv3pt5-171",
-   "current_price": 63.49,
-   "pred_7d_pct": 0.69,
-   "pred_7d_price": 63.93,
-   "direction": "up",
    "confidence": "low",
    "tier": "A",
    "meta_card": false,
@@ -2938,18 +3466,6 @@
    "pred_7d_pct": 0.69,
    "pred_7d_price": 80.09,
    "direction": "up",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "cel25c-17_A",
-   "current_price": 111.13,
-   "pred_7d_pct": -0.68,
-   "pred_7d_price": 110.38,
-   "direction": "down",
    "confidence": "low",
    "tier": "A",
    "meta_card": false,
@@ -2981,18 +3497,6 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "smp-SM210",
-   "current_price": 169.67,
-   "pred_7d_pct": 0.68,
-   "pred_7d_price": 170.83,
-   "direction": "up",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "sm12-258",
    "current_price": 89.92,
    "pred_7d_pct": 0.67,
@@ -3005,10 +3509,22 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sv4-253",
-   "current_price": 58.89,
+   "card_id": "sm7-153",
+   "current_price": 60.8,
+   "pred_7d_pct": 0.67,
+   "pred_7d_price": 61.21,
+   "direction": "up",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "smp-SM163",
+   "current_price": 53.58,
    "pred_7d_pct": -0.67,
-   "pred_7d_price": 58.5,
+   "pred_7d_price": 53.22,
    "direction": "down",
    "confidence": "low",
    "tier": "A",
@@ -3017,11 +3533,11 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sv6pt5-66",
-   "current_price": 58.29,
-   "pred_7d_pct": 0.67,
-   "pred_7d_price": 58.68,
-   "direction": "up",
+   "card_id": "swsh7-196",
+   "current_price": 73.42,
+   "pred_7d_pct": -0.67,
+   "pred_7d_price": 72.93,
+   "direction": "down",
    "confidence": "low",
    "tier": "A",
    "meta_card": false,
@@ -3053,47 +3569,11 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "me1-187",
-   "current_price": 209.98,
+   "card_id": "swsh12pt5gg-GG40",
+   "current_price": 69.5,
    "pred_7d_pct": -0.66,
-   "pred_7d_price": 208.59,
+   "pred_7d_price": 69.04,
    "direction": "down",
-   "confidence": "low",
-   "tier": "S",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "sv10-240",
-   "current_price": 61.69,
-   "pred_7d_pct": -0.66,
-   "pred_7d_price": 61.28,
-   "direction": "down",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "sv3pt5-166",
-   "current_price": 85.52,
-   "pred_7d_pct": 0.66,
-   "pred_7d_price": 86.08,
-   "direction": "up",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "swshp-SWSH181",
-   "current_price": 86.84,
-   "pred_7d_pct": 0.66,
-   "pred_7d_price": 87.41,
-   "direction": "up",
    "confidence": "low",
    "tier": "A",
    "meta_card": false,
@@ -3125,23 +3605,23 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "swsh8-251",
-   "current_price": 111.5,
+   "card_id": "smp-SM191",
+   "current_price": 349.28,
    "pred_7d_pct": 0.65,
-   "pred_7d_price": 112.22,
+   "pred_7d_price": 351.55,
    "direction": "up",
    "confidence": "low",
-   "tier": "A",
+   "tier": "S",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "swshp-SWSH184",
-   "current_price": 81.63,
-   "pred_7d_pct": 0.65,
-   "pred_7d_price": 82.16,
-   "direction": "up",
+   "card_id": "rsv10pt5-169",
+   "current_price": 86.25,
+   "pred_7d_pct": -0.64,
+   "pred_7d_price": 85.7,
+   "direction": "down",
    "confidence": "low",
    "tier": "A",
    "meta_card": false,
@@ -3185,11 +3665,47 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "zsv10pt5-129",
-   "current_price": 62.31,
+   "card_id": "bwp-BW90",
+   "current_price": 56.1,
+   "pred_7d_pct": 0.63,
+   "pred_7d_price": 56.45,
+   "direction": "up",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "me1-187",
+   "current_price": 210.38,
    "pred_7d_pct": -0.63,
-   "pred_7d_price": 61.92,
+   "pred_7d_price": 209.06,
    "direction": "down",
+   "confidence": "low",
+   "tier": "S",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "sm12-143",
+   "current_price": 70.03,
+   "pred_7d_pct": 0.63,
+   "pred_7d_price": 70.47,
+   "direction": "up",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "swsh7-214",
+   "current_price": 82.0,
+   "pred_7d_pct": 0.63,
+   "pred_7d_price": 82.51,
+   "direction": "up",
    "confidence": "low",
    "tier": "A",
    "meta_card": false,
@@ -3257,10 +3773,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "swshp-SWSH262",
-   "current_price": 78.01,
+   "card_id": "swsh7-188",
+   "current_price": 69.84,
    "pred_7d_pct": -0.61,
-   "pred_7d_price": 77.54,
+   "pred_7d_price": 69.41,
    "direction": "down",
    "confidence": "low",
    "tier": "A",
@@ -3281,6 +3797,18 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "ex11-77",
+   "current_price": 66.11,
+   "pred_7d_pct": 0.6,
+   "pred_7d_price": 66.51,
+   "direction": "up",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "ex8-100",
    "current_price": 82.46,
    "pred_7d_pct": 0.6,
@@ -3293,35 +3821,11 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sm11-222",
-   "current_price": 170.99,
+   "card_id": "me1-180",
+   "current_price": 58.37,
    "pred_7d_pct": 0.6,
-   "pred_7d_price": 172.01,
+   "pred_7d_price": 58.72,
    "direction": "up",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "smp-SM241",
-   "current_price": 247.4,
-   "pred_7d_pct": -0.6,
-   "pred_7d_price": 245.92,
-   "direction": "down",
-   "confidence": "low",
-   "tier": "S",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "sv3pt5-169",
-   "current_price": 58.49,
-   "pred_7d_pct": -0.6,
-   "pred_7d_price": 58.14,
-   "direction": "down",
    "confidence": "low",
    "tier": "A",
    "meta_card": false,
@@ -3337,18 +3841,6 @@
    "confidence": "low",
    "tier": "S",
    "meta_card": true,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "swsh7-196",
-   "current_price": 73.69,
-   "pred_7d_pct": -0.6,
-   "pred_7d_price": 73.25,
-   "direction": "down",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
   },
@@ -3377,14 +3869,14 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sv8-247",
-   "current_price": 95.58,
+   "card_id": "smp-SM210",
+   "current_price": 168.86,
    "pred_7d_pct": 0.59,
-   "pred_7d_price": 96.15,
+   "pred_7d_price": 169.85,
    "direction": "up",
    "confidence": "low",
    "tier": "A",
-   "meta_card": true,
+   "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
   },
@@ -3396,18 +3888,6 @@
    "direction": "up",
    "confidence": "low",
    "tier": "S",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "dp2-124",
-   "current_price": 64.81,
-   "pred_7d_pct": -0.58,
-   "pred_7d_price": 64.43,
-   "direction": "down",
-   "confidence": "low",
-   "tier": "A",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -3445,18 +3925,6 @@
    "confidence": "low",
    "tier": "A",
    "meta_card": true,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "swsh12pt5gg-GG68",
-   "current_price": 134.01,
-   "pred_7d_pct": 0.57,
-   "pred_7d_price": 134.77,
-   "direction": "up",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
   },
@@ -3509,10 +3977,22 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "bw7-152",
-   "current_price": 153.89,
-   "pred_7d_pct": 0.55,
-   "pred_7d_price": 154.73,
+   "card_id": "swsh12pt5gg-GG69",
+   "current_price": 375.99,
+   "pred_7d_pct": -0.56,
+   "pred_7d_price": 373.89,
+   "direction": "down",
+   "confidence": "low",
+   "tier": "S",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "swshp-SWSH304",
+   "current_price": 57.95,
+   "pred_7d_pct": 0.56,
+   "pred_7d_price": 58.27,
    "direction": "up",
    "confidence": "low",
    "tier": "A",
@@ -3521,13 +4001,13 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "hgss1-114",
-   "current_price": 306.78,
+   "card_id": "bw7-152",
+   "current_price": 153.89,
    "pred_7d_pct": 0.55,
-   "pred_7d_price": 308.46,
+   "pred_7d_price": 154.73,
    "direction": "up",
    "confidence": "low",
-   "tier": "S",
+   "tier": "A",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -3545,18 +4025,6 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "me1-180",
-   "current_price": 58.21,
-   "pred_7d_pct": 0.55,
-   "pred_7d_price": 58.53,
-   "direction": "up",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "sm12-216",
    "current_price": 307.82,
    "pred_7d_pct": 0.55,
@@ -3564,6 +4032,18 @@
    "direction": "up",
    "confidence": "low",
    "tier": "S",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "sv2-204",
+   "current_price": 58.96,
+   "pred_7d_pct": -0.55,
+   "pred_7d_price": 58.63,
+   "direction": "down",
+   "confidence": "low",
+   "tier": "A",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -3653,6 +4133,30 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "sv6pt5-66",
+   "current_price": 57.89,
+   "pred_7d_pct": 0.54,
+   "pred_7d_price": 58.2,
+   "direction": "up",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "xy7-97",
+   "current_price": 323.56,
+   "pred_7d_pct": 0.54,
+   "pred_7d_price": 325.32,
+   "direction": "up",
+   "confidence": "low",
+   "tier": "S",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "xyp-XY69",
    "current_price": 164.27,
    "pred_7d_pct": 0.54,
@@ -3689,18 +4193,6 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "swsh9tg-TG22",
-   "current_price": 75.07,
-   "pred_7d_pct": -0.53,
-   "pred_7d_price": 74.67,
-   "direction": "down",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "ecard3-27",
    "current_price": 100.84,
    "pred_7d_pct": 0.52,
@@ -3725,22 +4217,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sv2-203",
-   "current_price": 406.04,
+   "card_id": "sv5-166",
+   "current_price": 59.63,
    "pred_7d_pct": -0.52,
-   "pred_7d_price": 403.91,
-   "direction": "down",
-   "confidence": "low",
-   "tier": "S",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "sv2-259",
-   "current_price": 55.05,
-   "pred_7d_pct": -0.52,
-   "pred_7d_price": 54.76,
+   "pred_7d_price": 59.32,
    "direction": "down",
    "confidence": "low",
    "tier": "A",
@@ -3761,10 +4241,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "swsh7-188",
-   "current_price": 70.18,
+   "card_id": "swsh1-142",
+   "current_price": 61.97,
    "pred_7d_pct": -0.52,
-   "pred_7d_price": 69.81,
+   "pred_7d_price": 61.65,
    "direction": "down",
    "confidence": "low",
    "tier": "A",
@@ -3833,11 +4313,23 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "xyp-XY78",
-   "current_price": 84.12,
-   "pred_7d_pct": 0.51,
-   "pred_7d_price": 84.55,
-   "direction": "up",
+   "card_id": "zsv10pt5-129",
+   "current_price": 62.7,
+   "pred_7d_pct": -0.51,
+   "pred_7d_price": 62.38,
+   "direction": "down",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "base5-15",
+   "current_price": 64.29,
+   "pred_7d_pct": 0.5,
+   "pred_7d_price": 64.61,
+   "direction": "flat",
    "confidence": "low",
    "tier": "A",
    "meta_card": false,
@@ -3857,6 +4349,18 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "sv6-214",
+   "current_price": 381.53,
+   "pred_7d_pct": -0.5,
+   "pred_7d_price": 379.63,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "S",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "swshp-SWSH075",
    "current_price": 196.32,
    "pred_7d_pct": 0.5,
@@ -3864,6 +4368,30 @@
    "direction": "up",
    "confidence": "low",
    "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "xyp-XY124",
+   "current_price": 426.66,
+   "pred_7d_pct": 0.5,
+   "pred_7d_price": 428.78,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "S",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "zsv10pt5-171",
+   "current_price": 604.88,
+   "pred_7d_pct": 0.5,
+   "pred_7d_price": 607.93,
+   "direction": "up",
+   "confidence": "low",
+   "tier": "S",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -3885,18 +4413,6 @@
    "current_price": 94.99,
    "pred_7d_pct": -0.49,
    "pred_7d_price": 94.52,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "np-26",
-   "current_price": 210.75,
-   "pred_7d_pct": 0.49,
-   "pred_7d_price": 211.78,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -3929,58 +4445,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sv4pt5-234",
-   "current_price": 317.57,
-   "pred_7d_pct": -0.49,
-   "pred_7d_price": 316.01,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "S",
-   "meta_card": true,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "swsh12pt5gg-GG69",
-   "current_price": 377.35,
-   "pred_7d_pct": -0.49,
-   "pred_7d_price": 375.49,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "S",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "xy1-143",
-   "current_price": 56.9,
-   "pred_7d_pct": 0.49,
-   "pred_7d_price": 57.18,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "xyp-XY116",
    "current_price": 57.93,
    "pred_7d_pct": 0.49,
    "pred_7d_price": 58.22,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "basep-10",
-   "current_price": 61.16,
-   "pred_7d_pct": -0.48,
-   "pred_7d_price": 60.87,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -4025,6 +4493,30 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "me1-184",
+   "current_price": 66.95,
+   "pred_7d_pct": 0.48,
+   "pred_7d_price": 67.27,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "me2-130",
+   "current_price": 331.23,
+   "pred_7d_pct": -0.48,
+   "pred_7d_price": 329.63,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "S",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "pop4-14",
    "current_price": 58.2,
    "pred_7d_pct": 0.48,
@@ -4037,46 +4529,34 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "sm10-130",
+   "current_price": 77.29,
+   "pred_7d_pct": 0.48,
+   "pred_7d_price": 77.66,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "sm9-185",
+   "current_price": 54.82,
+   "pred_7d_pct": 0.48,
+   "pred_7d_price": 55.08,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "smp-SM112",
    "current_price": 57.56,
    "pred_7d_pct": 0.48,
    "pred_7d_price": 57.84,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "sv10-229",
-   "current_price": 107.76,
-   "pred_7d_pct": -0.48,
-   "pred_7d_price": 107.25,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "me1-184",
-   "current_price": 66.91,
-   "pred_7d_pct": 0.47,
-   "pred_7d_price": 67.22,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "rsv10pt5-169",
-   "current_price": 87.04,
-   "pred_7d_pct": -0.47,
-   "pred_7d_price": 86.63,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -4133,54 +4613,6 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sv5-166",
-   "current_price": 59.79,
-   "pred_7d_pct": -0.46,
-   "pred_7d_price": 59.51,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "xy1-141",
-   "current_price": 97.29,
-   "pred_7d_pct": -0.46,
-   "pred_7d_price": 96.84,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "xy10-55",
-   "current_price": 76.36,
-   "pred_7d_pct": 0.46,
-   "pred_7d_price": 76.71,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "xy6-105",
-   "current_price": 406.36,
-   "pred_7d_pct": 0.46,
-   "pred_7d_price": 408.22,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "S",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "xy9-27",
    "current_price": 50.03,
    "pred_7d_pct": 0.46,
@@ -4229,6 +4661,30 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "swshp-SWSH180",
+   "current_price": 65.02,
+   "pred_7d_pct": 0.45,
+   "pred_7d_price": 65.32,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "xyp-XY78",
+   "current_price": 83.83,
+   "pred_7d_pct": 0.45,
+   "pred_7d_price": 84.2,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "neo4-48",
    "current_price": 132.14,
    "pred_7d_pct": 0.44,
@@ -4265,46 +4721,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sv6-214",
-   "current_price": 382.74,
+   "card_id": "svp-132",
+   "current_price": 101.24,
    "pred_7d_pct": -0.44,
-   "pred_7d_price": 381.06,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "S",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "swsh12pt5gg-GG67",
-   "current_price": 130.55,
-   "pred_7d_pct": -0.44,
-   "pred_7d_price": 129.98,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "swsh7-214",
-   "current_price": 81.24,
-   "pred_7d_pct": 0.44,
-   "pred_7d_price": 81.6,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "swshp-SWSH180",
-   "current_price": 64.97,
-   "pred_7d_pct": 0.44,
-   "pred_7d_price": 65.26,
+   "pred_7d_price": 100.8,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -4385,10 +4805,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "svp-132",
-   "current_price": 101.28,
+   "card_id": "swsh8-245",
+   "current_price": 82.23,
    "pred_7d_pct": -0.43,
-   "pred_7d_price": 100.85,
+   "pred_7d_price": 81.87,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -4421,10 +4841,22 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sv3pt5-173",
-   "current_price": 96.76,
+   "card_id": "smp-SM201",
+   "current_price": 193.64,
    "pred_7d_pct": -0.42,
-   "pred_7d_price": 96.35,
+   "pred_7d_price": 192.83,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "sv10-229",
+   "current_price": 108.11,
+   "pred_7d_pct": -0.42,
+   "pred_7d_price": 107.66,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -4445,10 +4877,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "swsh12pt5gg-GG40",
-   "current_price": 70.39,
+   "card_id": "swsh3-20",
+   "current_price": 50.63,
    "pred_7d_pct": -0.42,
-   "pred_7d_price": 70.09,
+   "pred_7d_price": 50.42,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -4457,10 +4889,22 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "xyp-XY121",
-   "current_price": 198.02,
-   "pred_7d_pct": 0.42,
-   "pred_7d_price": 198.85,
+   "card_id": "zsv10pt5-92",
+   "current_price": 57.63,
+   "pred_7d_pct": -0.42,
+   "pred_7d_price": 57.39,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "basep-10",
+   "current_price": 61.36,
+   "pred_7d_pct": -0.41,
+   "pred_7d_price": 61.11,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -4473,6 +4917,18 @@
    "current_price": 111.98,
    "pred_7d_pct": -0.41,
    "pred_7d_price": 111.52,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "xy1-143",
+   "current_price": 56.65,
+   "pred_7d_pct": 0.41,
+   "pred_7d_price": 56.88,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -4505,14 +4961,14 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sv4-199",
-   "current_price": 120.11,
-   "pred_7d_pct": 0.4,
-   "pred_7d_price": 120.59,
+   "card_id": "sv10-232",
+   "current_price": 261.52,
+   "pred_7d_pct": -0.4,
+   "pred_7d_price": 260.48,
    "direction": "flat",
    "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
+   "tier": "S",
+   "meta_card": true,
    "model": "blend-v1",
    "as_of": "2026-07-29"
   },
@@ -4524,18 +4980,6 @@
    "direction": "flat",
    "confidence": "low",
    "tier": "S",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "swsh8-245",
-   "current_price": 82.4,
-   "pred_7d_pct": -0.4,
-   "pred_7d_price": 82.07,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -4589,10 +5033,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sv2-204",
-   "current_price": 59.48,
+   "card_id": "sv2-259",
+   "current_price": 55.45,
    "pred_7d_pct": -0.39,
-   "pred_7d_price": 59.25,
+   "pred_7d_price": 55.23,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -4601,46 +5045,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sv3pt5-175",
-   "current_price": 73.13,
+   "card_id": "svp-44",
+   "current_price": 63.82,
    "pred_7d_pct": -0.39,
-   "pred_7d_price": 72.85,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "sv3pt5-200",
-   "current_price": 145.82,
-   "pred_7d_pct": -0.39,
-   "pred_7d_price": 145.25,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "sv3pt5-202",
-   "current_price": 102.74,
-   "pred_7d_pct": 0.39,
-   "pred_7d_price": 103.14,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "swsh12pt5gg-GG38",
-   "current_price": 62.46,
-   "pred_7d_pct": -0.39,
-   "pred_7d_price": 62.22,
+   "pred_7d_price": 63.57,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -4697,6 +5105,18 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "pgo-79",
+   "current_price": 52.13,
+   "pred_7d_pct": -0.38,
+   "pred_7d_price": 51.93,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "sm11-146",
    "current_price": 53.26,
    "pred_7d_pct": 0.38,
@@ -4721,49 +5141,13 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sv6-188",
-   "current_price": 93.94,
-   "pred_7d_pct": -0.38,
-   "pred_7d_price": 93.58,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "sv7-143",
-   "current_price": 110.69,
-   "pred_7d_pct": -0.38,
-   "pred_7d_price": 110.27,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "swsh1-142",
-   "current_price": 62.41,
-   "pred_7d_pct": -0.38,
-   "pred_7d_price": 62.17,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "xyp-XY124",
-   "current_price": 424.2,
+   "card_id": "swshp-SWSH183",
+   "current_price": 74.74,
    "pred_7d_pct": 0.38,
-   "pred_7d_price": 425.82,
+   "pred_7d_price": 75.02,
    "direction": "flat",
    "confidence": "low",
-   "tier": "S",
+   "tier": "A",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -4781,49 +5165,13 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "dp4-80",
-   "current_price": 75.73,
+   "card_id": "sv3pt5-181",
+   "current_price": 51.47,
    "pred_7d_pct": 0.37,
-   "pred_7d_price": 76.01,
+   "pred_7d_price": 51.66,
    "direction": "flat",
    "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "xy12-101",
-   "current_price": 155.98,
-   "pred_7d_pct": 0.37,
-   "pred_7d_price": 156.55,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "xy6-101",
-   "current_price": 65.0,
-   "pred_7d_pct": 0.37,
-   "pred_7d_price": 65.24,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "base5-15",
-   "current_price": 63.83,
-   "pred_7d_pct": 0.36,
-   "pred_7d_price": 64.06,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
+   "tier": "B",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -4865,10 +5213,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sv10-233",
-   "current_price": 109.43,
-   "pred_7d_pct": 0.36,
-   "pred_7d_price": 109.83,
+   "card_id": "sv3pt5-200",
+   "current_price": 146.07,
+   "pred_7d_pct": -0.36,
+   "pred_7d_price": 145.55,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -4877,10 +5225,22 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "zsv10pt5-92",
-   "current_price": 57.83,
+   "card_id": "sv6-187",
+   "current_price": 56.32,
    "pred_7d_pct": -0.36,
-   "pred_7d_price": 57.62,
+   "pred_7d_price": 56.12,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "swsh9-166",
+   "current_price": 62.96,
+   "pred_7d_pct": 0.36,
+   "pred_7d_price": 63.19,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -4901,10 +5261,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sv2-196",
-   "current_price": 66.21,
-   "pred_7d_pct": 0.35,
-   "pred_7d_price": 66.44,
+   "card_id": "sm12-239",
+   "current_price": 71.15,
+   "pred_7d_pct": -0.35,
+   "pred_7d_price": 70.9,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -4913,10 +5273,58 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sv2-262",
-   "current_price": 55.25,
+   "card_id": "sv4-199",
+   "current_price": 119.84,
+   "pred_7d_pct": 0.35,
+   "pred_7d_price": 120.27,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "sv7-143",
+   "current_price": 110.86,
+   "pred_7d_pct": -0.35,
+   "pred_7d_price": 110.48,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "swsh12pt5gg-GG67",
+   "current_price": 131.19,
+   "pred_7d_pct": -0.35,
+   "pred_7d_price": 130.73,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "pl4-AR1",
+   "current_price": 63.58,
    "pred_7d_pct": 0.34,
-   "pred_7d_price": 55.44,
+   "pred_7d_price": 63.79,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "sv2-269",
+   "current_price": 62.09,
+   "pred_7d_pct": -0.34,
+   "pred_7d_price": 61.88,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -4973,10 +5381,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "svp-44",
-   "current_price": 64.03,
-   "pred_7d_pct": -0.33,
-   "pred_7d_price": 63.82,
+   "card_id": "sm11-215",
+   "current_price": 132.88,
+   "pred_7d_pct": 0.33,
+   "pred_7d_price": 133.32,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -4985,13 +5393,49 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "zsv10pt5-171",
-   "current_price": 599.69,
+   "card_id": "sm8-215",
+   "current_price": 104.87,
    "pred_7d_pct": 0.33,
-   "pred_7d_price": 601.7,
+   "pred_7d_price": 105.21,
    "direction": "flat",
    "confidence": "low",
-   "tier": "S",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "swsh12pt5gg-GG10",
+   "current_price": 72.27,
+   "pred_7d_pct": 0.33,
+   "pred_7d_price": 72.5,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "swsh7-184",
+   "current_price": 200.13,
+   "pred_7d_pct": 0.33,
+   "pred_7d_price": 200.8,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "base2-3",
+   "current_price": 145.93,
+   "pred_7d_pct": 0.32,
+   "pred_7d_price": 146.39,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -5057,10 +5501,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "swsh12pt5gg-GG36",
-   "current_price": 52.81,
-   "pred_7d_pct": 0.32,
-   "pred_7d_price": 52.98,
+   "card_id": "sv1-210",
+   "current_price": 60.06,
+   "pred_7d_pct": -0.32,
+   "pred_7d_price": 59.87,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -5069,10 +5513,22 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "swshp-SWSH179",
-   "current_price": 85.34,
+   "card_id": "sv3pt5-202",
+   "current_price": 102.38,
    "pred_7d_pct": 0.32,
-   "pred_7d_price": 85.62,
+   "pred_7d_price": 102.71,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "sv6-188",
+   "current_price": 94.25,
+   "pred_7d_pct": -0.32,
+   "pred_7d_price": 93.95,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -5117,18 +5573,6 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sm12-239",
-   "current_price": 71.31,
-   "pred_7d_pct": -0.31,
-   "pred_7d_price": 71.09,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "sm5-166",
    "current_price": 52.98,
    "pred_7d_pct": 0.31,
@@ -5153,6 +5597,18 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "sv2-196",
+   "current_price": 66.06,
+   "pred_7d_pct": 0.31,
+   "pred_7d_price": 66.26,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "sv4pt5-109",
    "current_price": 58.71,
    "pred_7d_pct": -0.31,
@@ -5165,14 +5621,38 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sv6pt5-68",
-   "current_price": 60.87,
+   "card_id": "swsh35-79",
+   "current_price": 265.32,
    "pred_7d_pct": 0.31,
-   "pred_7d_price": 61.06,
+   "pred_7d_price": 266.16,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "S",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "swshp-SWSH179",
+   "current_price": 85.29,
+   "pred_7d_pct": 0.31,
+   "pred_7d_price": 85.56,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
-   "meta_card": true,
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "swshp-SWSH303",
+   "current_price": 57.75,
+   "pred_7d_pct": 0.31,
+   "pred_7d_price": 57.93,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
   },
@@ -5184,18 +5664,6 @@
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "zsv10pt5-172",
-   "current_price": 593.3,
-   "pred_7d_pct": 0.31,
-   "pred_7d_price": 595.11,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "S",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -5213,18 +5681,6 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sm10-107",
-   "current_price": 57.56,
-   "pred_7d_pct": 0.3,
-   "pred_7d_price": 57.73,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "sm10-217",
    "current_price": 216.81,
    "pred_7d_pct": 0.3,
@@ -5232,6 +5688,18 @@
    "direction": "flat",
    "confidence": "low",
    "tier": "S",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "sm12-157",
+   "current_price": 96.44,
+   "pred_7d_pct": -0.3,
+   "pred_7d_price": 96.15,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -5273,6 +5741,42 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "zsv10pt5-165",
+   "current_price": 80.59,
+   "pred_7d_pct": 0.3,
+   "pred_7d_price": 80.83,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "zsv10pt5-172",
+   "current_price": 593.18,
+   "pred_7d_pct": 0.3,
+   "pred_7d_price": 594.97,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "S",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "ecard3-46",
+   "current_price": 145.55,
+   "pred_7d_pct": -0.29,
+   "pred_7d_price": 145.13,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "gym1-58",
    "current_price": 57.82,
    "pred_7d_pct": -0.29,
@@ -5286,9 +5790,9 @@
   },
   {
    "card_id": "me1-181",
-   "current_price": 92.92,
+   "current_price": 92.9,
    "pred_7d_pct": 0.29,
-   "pred_7d_price": 93.19,
+   "pred_7d_price": 93.17,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -5321,18 +5825,6 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sma-SV53",
-   "current_price": 53.67,
-   "pred_7d_pct": 0.29,
-   "pred_7d_price": 53.83,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "smp-SM111",
    "current_price": 55.96,
    "pred_7d_pct": 0.29,
@@ -5341,18 +5833,6 @@
    "confidence": "low",
    "tier": "A",
    "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "sv10-232",
-   "current_price": 262.99,
-   "pred_7d_pct": -0.29,
-   "pred_7d_price": 262.22,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "S",
-   "meta_card": true,
    "model": "blend-v1",
    "as_of": "2026-07-29"
   },
@@ -5369,10 +5849,34 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sv8pt5-167",
-   "current_price": 192.32,
+   "card_id": "swsh12tg-TG20",
+   "current_price": 209.45,
+   "pred_7d_pct": -0.29,
+   "pred_7d_price": 208.85,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "S",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "swsh7-207",
+   "current_price": 50.72,
    "pred_7d_pct": 0.29,
-   "pred_7d_price": 192.88,
+   "pred_7d_price": 50.87,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "B",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "xy10-55",
+   "current_price": 75.72,
+   "pred_7d_pct": 0.29,
+   "pred_7d_price": 75.94,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -5381,10 +5885,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "swshp-SWSH183",
-   "current_price": 74.4,
+   "card_id": "xy6-101",
+   "current_price": 64.76,
    "pred_7d_pct": 0.29,
-   "pred_7d_price": 74.62,
+   "pred_7d_price": 64.95,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -5397,18 +5901,6 @@
    "current_price": 67.06,
    "pred_7d_pct": 0.29,
    "pred_7d_price": 67.26,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "zsv10pt5-165",
-   "current_price": 80.52,
-   "pred_7d_pct": 0.29,
-   "pred_7d_price": 80.75,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -5453,10 +5945,22 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "swshp-SWSH304",
-   "current_price": 57.13,
+   "card_id": "sv3pt5-198",
+   "current_price": 116.05,
    "pred_7d_pct": 0.28,
-   "pred_7d_price": 57.29,
+   "pred_7d_price": 116.38,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "sv4pt5-160",
+   "current_price": 56.5,
+   "pred_7d_pct": -0.28,
+   "pred_7d_price": 56.34,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -5537,10 +6041,46 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "me2-130",
-   "current_price": 335.21,
-   "pred_7d_pct": -0.26,
-   "pred_7d_price": 334.35,
+   "card_id": "sv3pt5-168",
+   "current_price": 89.03,
+   "pred_7d_pct": -0.27,
+   "pred_7d_price": 88.79,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "sv3pt5-201",
+   "current_price": 67.91,
+   "pred_7d_pct": -0.27,
+   "pred_7d_price": 67.73,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "xy12-101",
+   "current_price": 155.18,
+   "pred_7d_pct": 0.27,
+   "pred_7d_price": 155.6,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "neo4-5",
+   "current_price": 374.99,
+   "pred_7d_pct": 0.26,
+   "pred_7d_price": 375.97,
    "direction": "flat",
    "confidence": "low",
    "tier": "S",
@@ -5561,10 +6101,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "smp-SM163",
-   "current_price": 54.76,
-   "pred_7d_pct": -0.26,
-   "pred_7d_price": 54.62,
+   "card_id": "sv2-262",
+   "current_price": 55.03,
+   "pred_7d_pct": 0.26,
+   "pred_7d_price": 55.17,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -5573,13 +6113,13 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sv2-269",
-   "current_price": 62.35,
+   "card_id": "swsh12pt5gg-GG44",
+   "current_price": 297.1,
    "pred_7d_pct": -0.26,
-   "pred_7d_price": 62.19,
+   "pred_7d_price": 296.34,
    "direction": "flat",
    "confidence": "low",
-   "tier": "A",
+   "tier": "S",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -5592,6 +6132,18 @@
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "swsh8-269",
+   "current_price": 272.11,
+   "pred_7d_pct": -0.26,
+   "pred_7d_price": 271.41,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "S",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -5657,6 +6209,42 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "rsv10pt5-173",
+   "current_price": 504.48,
+   "pred_7d_pct": 0.25,
+   "pred_7d_price": 505.77,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "S",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "sm10-107",
+   "current_price": 57.42,
+   "pred_7d_pct": 0.25,
+   "pred_7d_price": 57.56,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "sm7-175",
+   "current_price": 79.15,
+   "pred_7d_pct": 0.25,
+   "pred_7d_price": 79.35,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "sma-SV64",
    "current_price": 84.71,
    "pred_7d_pct": 0.25,
@@ -5669,10 +6257,22 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sv3pt5-198",
-   "current_price": 115.88,
-   "pred_7d_pct": 0.25,
-   "pred_7d_price": 116.17,
+   "card_id": "sv8-237",
+   "current_price": 128.1,
+   "pred_7d_pct": -0.25,
+   "pred_7d_price": 127.78,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "sv8pt5-168",
+   "current_price": 67.4,
+   "pred_7d_pct": -0.25,
+   "pred_7d_price": 67.23,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -5705,18 +6305,6 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "swsh9-166",
-   "current_price": 62.59,
-   "pred_7d_pct": 0.25,
-   "pred_7d_price": 62.74,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "base5-7",
    "current_price": 63.75,
    "pred_7d_pct": 0.24,
@@ -5729,6 +6317,18 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "bw3-101",
+   "current_price": 236.5,
+   "pred_7d_pct": 0.24,
+   "pred_7d_price": 237.08,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "S",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "ecard1-8",
    "current_price": 93.37,
    "pred_7d_pct": 0.24,
@@ -5736,6 +6336,18 @@
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "ecard1-86",
+   "current_price": 52.67,
+   "pred_7d_pct": -0.24,
+   "pred_7d_price": 52.54,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "B",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -5765,30 +6377,6 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "rsv10pt5-173",
-   "current_price": 504.21,
-   "pred_7d_pct": 0.24,
-   "pred_7d_price": 505.44,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "S",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "sm10-213",
-   "current_price": 148.21,
-   "pred_7d_pct": 0.24,
-   "pred_7d_price": 148.57,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "sm7-167",
    "current_price": 66.93,
    "pred_7d_pct": 0.24,
@@ -5801,37 +6389,13 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sm9-1",
-   "current_price": 54.5,
-   "pred_7d_pct": -0.24,
-   "pred_7d_price": 54.37,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "B",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "sv6-187",
-   "current_price": 56.68,
-   "pred_7d_pct": -0.24,
-   "pred_7d_price": 56.55,
+   "card_id": "swsh10-167",
+   "current_price": 93.66,
+   "pred_7d_pct": 0.24,
+   "pred_7d_price": 93.88,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "sv8pt5-150",
-   "current_price": 293.7,
-   "pred_7d_pct": -0.24,
-   "pred_7d_price": 293.0,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "S",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -5897,46 +6461,22 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "sm9-1",
+   "current_price": 55.85,
+   "pred_7d_pct": 0.23,
+   "pred_7d_price": 55.98,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "B",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "sm9-120",
    "current_price": 90.81,
    "pred_7d_pct": -0.23,
    "pred_7d_price": 90.6,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "sv1-210",
-   "current_price": 60.37,
-   "pred_7d_pct": -0.23,
-   "pred_7d_price": 60.23,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "sv10-193",
-   "current_price": 70.77,
-   "pred_7d_pct": 0.23,
-   "pred_7d_price": 70.93,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "sv3pt5-201",
-   "current_price": 68.03,
-   "pred_7d_pct": -0.23,
-   "pred_7d_price": 67.87,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -5952,6 +6492,30 @@
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "xy12-11",
+   "current_price": 106.69,
+   "pred_7d_pct": -0.23,
+   "pred_7d_price": 106.45,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "xy4-121",
+   "current_price": 530.94,
+   "pred_7d_pct": 0.23,
+   "pred_7d_price": 532.18,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "S",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -5981,18 +6545,6 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sm12-157",
-   "current_price": 96.84,
-   "pred_7d_pct": -0.22,
-   "pred_7d_price": 96.63,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "sm9-53",
    "current_price": 353.46,
    "pred_7d_pct": 0.22,
@@ -6005,34 +6557,22 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sv6pt5-78",
-   "current_price": 75.7,
+   "card_id": "sv6pt5-68",
+   "current_price": 60.58,
    "pred_7d_pct": 0.22,
-   "pred_7d_price": 75.86,
+   "pred_7d_price": 60.71,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
-   "meta_card": false,
+   "meta_card": true,
    "model": "blend-v1",
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "swsh35-79",
-   "current_price": 264.08,
-   "pred_7d_pct": 0.22,
-   "pred_7d_price": 264.67,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "S",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "xy3-112",
-   "current_price": 53.96,
+   "card_id": "zsv10pt5-137",
+   "current_price": 59.55,
    "pred_7d_pct": -0.22,
-   "pred_7d_price": 53.84,
+   "pred_7d_price": 59.42,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -6042,9 +6582,9 @@
   },
   {
    "card_id": "zsv10pt5-170",
-   "current_price": 73.69,
+   "current_price": 73.68,
    "pred_7d_pct": 0.22,
-   "pred_7d_price": 73.85,
+   "pred_7d_price": 73.84,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -6053,10 +6593,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "bwp-BW90",
-   "current_price": 54.93,
-   "pred_7d_pct": 0.21,
-   "pred_7d_price": 55.05,
+   "card_id": "g1-RC32",
+   "current_price": 181.33,
+   "pred_7d_pct": -0.21,
+   "pred_7d_price": 180.94,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -6089,18 +6629,6 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "me1-182",
-   "current_price": 59.11,
-   "pred_7d_pct": -0.21,
-   "pred_7d_price": 58.98,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "sm12-241",
    "current_price": 222.18,
    "pred_7d_pct": -0.21,
@@ -6108,6 +6636,18 @@
    "direction": "flat",
    "confidence": "low",
    "tier": "S",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "sm35-56",
+   "current_price": 136.19,
+   "pred_7d_pct": 0.21,
+   "pred_7d_price": 136.48,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -6133,6 +6673,30 @@
    "confidence": "low",
    "tier": "A",
    "meta_card": true,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "swsh10-161",
+   "current_price": 83.52,
+   "pred_7d_pct": 0.21,
+   "pred_7d_price": 83.7,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "swsh7-167",
+   "current_price": 151.34,
+   "pred_7d_pct": -0.21,
+   "pred_7d_price": 151.02,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
   },
@@ -6173,34 +6737,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "pgo-72",
-   "current_price": 64.72,
-   "pred_7d_pct": -0.2,
-   "pred_7d_price": 64.59,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "pgo-79",
-   "current_price": 52.61,
-   "pred_7d_pct": -0.2,
-   "pred_7d_price": 52.5,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "sm10-130",
-   "current_price": 76.19,
+   "card_id": "me1-177",
+   "current_price": 156.3,
    "pred_7d_pct": 0.2,
-   "pred_7d_price": 76.34,
+   "pred_7d_price": 156.61,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -6221,10 +6761,22 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "swsh10-167",
-   "current_price": 93.48,
+   "card_id": "sm12-250",
+   "current_price": 63.17,
    "pred_7d_pct": 0.2,
-   "pred_7d_price": 93.67,
+   "pred_7d_price": 63.3,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "sv8pt5-167",
+   "current_price": 191.39,
+   "pred_7d_pct": 0.2,
+   "pred_7d_price": 191.77,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -6237,18 +6789,6 @@
    "current_price": 66.21,
    "pred_7d_pct": 0.2,
    "pred_7d_price": 66.34,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "swsh9tg-TG16",
-   "current_price": 82.84,
-   "pred_7d_pct": -0.2,
-   "pred_7d_price": 82.67,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -6273,6 +6813,18 @@
    "current_price": 66.85,
    "pred_7d_pct": 0.2,
    "pred_7d_price": 66.98,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "xy7-21",
+   "current_price": 64.77,
+   "pred_7d_pct": -0.2,
+   "pred_7d_price": 64.64,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -6377,6 +6929,18 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "sv8-247",
+   "current_price": 93.66,
+   "pred_7d_pct": 0.19,
+   "pred_7d_price": 93.84,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": true,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "swsh12-186",
    "current_price": 527.69,
    "pred_7d_pct": -0.19,
@@ -6384,30 +6948,6 @@
    "direction": "flat",
    "confidence": "low",
    "tier": "S",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "swsh3-20",
-   "current_price": 51.24,
-   "pred_7d_pct": -0.19,
-   "pred_7d_price": 51.14,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "swsh7-207",
-   "current_price": 50.46,
-   "pred_7d_pct": 0.19,
-   "pred_7d_price": 50.56,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "B",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -6461,46 +7001,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sm35-56",
-   "current_price": 135.94,
-   "pred_7d_pct": 0.18,
-   "pred_7d_price": 136.18,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "sm9-174",
    "current_price": 132.19,
    "pred_7d_pct": 0.18,
    "pred_7d_price": 132.43,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "sv1-245",
-   "current_price": 76.19,
-   "pred_7d_pct": 0.18,
-   "pred_7d_price": 76.33,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": true,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "swsh7-184",
-   "current_price": 198.51,
-   "pred_7d_pct": 0.18,
-   "pred_7d_price": 198.86,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -6533,10 +7037,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "basep-28",
-   "current_price": 69.73,
+   "card_id": "pgo-72",
+   "current_price": 64.84,
    "pred_7d_pct": -0.17,
-   "pred_7d_price": 69.61,
+   "pred_7d_price": 64.73,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -6549,18 +7053,6 @@
    "current_price": 55.67,
    "pred_7d_pct": -0.17,
    "pred_7d_price": 55.57,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "si1-4",
-   "current_price": 188.85,
-   "pred_7d_pct": 0.17,
-   "pred_7d_price": 189.16,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -6605,22 +7097,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sv10-231",
-   "current_price": 532.1,
-   "pred_7d_pct": -0.17,
-   "pred_7d_price": 531.19,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "S",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "swsh11tg-TG17",
-   "current_price": 120.95,
-   "pred_7d_pct": -0.17,
-   "pred_7d_price": 120.75,
+   "card_id": "sm8-210",
+   "current_price": 55.99,
+   "pred_7d_pct": 0.17,
+   "pred_7d_price": 56.08,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -6677,18 +7157,6 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "basep-47",
-   "current_price": 140.74,
-   "pred_7d_pct": -0.16,
-   "pred_7d_price": 140.52,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "bw3-102",
    "current_price": 92.82,
    "pred_7d_pct": 0.16,
@@ -6713,18 +7181,6 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sm11-215",
-   "current_price": 131.73,
-   "pred_7d_pct": 0.16,
-   "pred_7d_price": 131.94,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "sm9-181",
    "current_price": 187.68,
    "pred_7d_pct": 0.16,
@@ -6737,10 +7193,46 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "swsh10-161",
-   "current_price": 83.28,
+   "card_id": "sma-SV41",
+   "current_price": 53.68,
+   "pred_7d_pct": -0.16,
+   "pred_7d_price": 53.59,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "sv6pt5-78",
+   "current_price": 75.5,
    "pred_7d_pct": 0.16,
-   "pred_7d_price": 83.41,
+   "pred_7d_price": 75.62,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "swsh9tg-TG14",
+   "current_price": 79.11,
+   "pred_7d_pct": -0.16,
+   "pred_7d_price": 78.98,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "swsh9tg-TG16",
+   "current_price": 83.0,
+   "pred_7d_pct": -0.16,
+   "pred_7d_price": 82.86,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -6797,18 +7289,6 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "bw11-RC24",
-   "current_price": 230.34,
-   "pred_7d_pct": -0.15,
-   "pred_7d_price": 230.0,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "bw8-132",
    "current_price": 331.74,
    "pred_7d_pct": 0.15,
@@ -6816,6 +7296,18 @@
    "direction": "flat",
    "confidence": "low",
    "tier": "S",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "dp7-SH3",
+   "current_price": 50.04,
+   "pred_7d_pct": 0.15,
+   "pred_7d_price": 50.11,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "B",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -6857,34 +7349,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "swsh12pt5gg-GG10",
-   "current_price": 71.64,
-   "pred_7d_pct": 0.15,
-   "pred_7d_price": 71.75,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "swsh12tg-TG20",
-   "current_price": 210.99,
+   "card_id": "sv2-201",
+   "current_price": 58.37,
    "pred_7d_pct": -0.15,
-   "pred_7d_price": 210.68,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "S",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "swshp-SWSH182",
-   "current_price": 93.11,
-   "pred_7d_pct": 0.15,
-   "pred_7d_price": 93.25,
+   "pred_7d_price": 58.28,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -6929,10 +7397,34 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "basep-47",
+   "current_price": 140.9,
+   "pred_7d_pct": -0.14,
+   "pred_7d_price": 140.71,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "bp-7",
    "current_price": 131.22,
    "pred_7d_pct": -0.14,
    "pred_7d_price": 131.04,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "bw9-64",
+   "current_price": 130.93,
+   "pred_7d_pct": 0.14,
+   "pred_7d_price": 131.11,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -6969,18 +7461,6 @@
    "current_price": 87.37,
    "pred_7d_pct": -0.14,
    "pred_7d_price": 87.24,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "pl4-AR1",
-   "current_price": 62.93,
-   "pred_7d_pct": 0.14,
-   "pred_7d_price": 63.02,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -7049,25 +7529,25 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sv5-206",
-   "current_price": 55.21,
+   "card_id": "sv10-231",
+   "current_price": 532.9,
    "pred_7d_pct": -0.14,
-   "pred_7d_price": 55.14,
+   "pred_7d_price": 532.14,
    "direction": "flat",
    "confidence": "low",
-   "tier": "A",
+   "tier": "S",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "swsh11tg-TG06",
-   "current_price": 56.6,
+   "card_id": "sv8pt5-150",
+   "current_price": 295.22,
    "pred_7d_pct": -0.14,
-   "pred_7d_price": 56.52,
+   "pred_7d_price": 294.8,
    "direction": "flat",
    "confidence": "low",
-   "tier": "A",
+   "tier": "S",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -7109,6 +7589,18 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "base5-20",
+   "current_price": 71.09,
+   "pred_7d_pct": 0.13,
+   "pred_7d_price": 71.18,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "bwp-BW93",
    "current_price": 211.64,
    "pred_7d_pct": -0.13,
@@ -7140,18 +7632,6 @@
    "direction": "flat",
    "confidence": "low",
    "tier": "S",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "sm115-68",
-   "current_price": 80.12,
-   "pred_7d_pct": -0.13,
-   "pred_7d_price": 80.01,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -7193,6 +7673,42 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "sma-SV49",
+   "current_price": 751.57,
+   "pred_7d_pct": -0.13,
+   "pred_7d_price": 750.56,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "S",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "sv5-193",
+   "current_price": 62.41,
+   "pred_7d_pct": -0.13,
+   "pred_7d_price": 62.33,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "sv5-204",
+   "current_price": 57.79,
+   "pred_7d_pct": -0.13,
+   "pred_7d_price": 57.72,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "sv8pt5-147",
    "current_price": 101.06,
    "pred_7d_pct": -0.13,
@@ -7205,14 +7721,14 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sv8pt5-168",
-   "current_price": 67.82,
-   "pred_7d_pct": -0.13,
-   "pred_7d_price": 67.73,
+   "card_id": "sv8pt5-161",
+   "current_price": 1514.83,
+   "pred_7d_pct": 0.13,
+   "pred_7d_price": 1516.79,
    "direction": "flat",
    "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
+   "tier": "S",
+   "meta_card": true,
    "model": "blend-v1",
    "as_of": "2026-07-29"
   },
@@ -7253,10 +7769,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "zsv10pt5-137",
-   "current_price": 59.81,
-   "pred_7d_pct": -0.13,
-   "pred_7d_price": 59.73,
+   "card_id": "basep-5",
+   "current_price": 72.47,
+   "pred_7d_pct": -0.12,
+   "pred_7d_price": 72.39,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -7265,10 +7781,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "basep-5",
-   "current_price": 72.47,
+   "card_id": "bwp-BW12",
+   "current_price": 70.02,
    "pred_7d_pct": -0.12,
-   "pred_7d_price": 72.39,
+   "pred_7d_price": 69.93,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -7289,10 +7805,58 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "dp7-98",
+   "current_price": 64.44,
+   "pred_7d_pct": 0.12,
+   "pred_7d_price": 64.52,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "ecard2-H30",
    "current_price": 154.94,
    "pred_7d_pct": 0.12,
    "pred_7d_price": 155.13,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "g1-RC29",
+   "current_price": 165.77,
+   "pred_7d_pct": -0.12,
+   "pred_7d_price": 165.57,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "hsp-HGSS21",
+   "current_price": 60.5,
+   "pred_7d_pct": 0.12,
+   "pred_7d_price": 60.57,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "si1-4",
+   "current_price": 188.36,
+   "pred_7d_pct": 0.12,
+   "pred_7d_price": 188.58,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -7325,10 +7889,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sm75-70",
-   "current_price": 60.46,
+   "card_id": "sv2-226",
+   "current_price": 99.32,
    "pred_7d_pct": -0.12,
-   "pred_7d_price": 60.39,
+   "pred_7d_price": 99.2,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -7345,6 +7909,18 @@
    "confidence": "low",
    "tier": "A",
    "meta_card": true,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "swsh11tg-TG16",
+   "current_price": 133.9,
+   "pred_7d_pct": -0.12,
+   "pred_7d_price": 133.74,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
   },
@@ -7409,6 +7985,30 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "sm10-197",
+   "current_price": 108.0,
+   "pred_7d_pct": -0.11,
+   "pred_7d_price": 107.88,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "sm10-213",
+   "current_price": 147.21,
+   "pred_7d_pct": 0.11,
+   "pred_7d_price": 147.37,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "sm12-224",
    "current_price": 102.96,
    "pred_7d_pct": 0.11,
@@ -7445,13 +8045,37 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sv4pt5-160",
-   "current_price": 56.99,
+   "card_id": "sv10-193",
+   "current_price": 69.55,
    "pred_7d_pct": -0.11,
-   "pred_7d_price": 56.93,
+   "pred_7d_price": 69.47,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "sv10-233",
+   "current_price": 106.82,
+   "pred_7d_pct": -0.11,
+   "pred_7d_price": 106.71,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "sv4-206",
+   "current_price": 50.74,
+   "pred_7d_pct": -0.11,
+   "pred_7d_price": 50.68,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "B",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -7461,6 +8085,18 @@
    "current_price": 180.22,
    "pred_7d_pct": -0.11,
    "pred_7d_price": 180.02,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "swsh10tg-TG23",
+   "current_price": 83.11,
+   "pred_7d_pct": -0.11,
+   "pred_7d_price": 83.02,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -7529,18 +8165,6 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "g1-RC29",
-   "current_price": 165.93,
-   "pred_7d_pct": -0.1,
-   "pred_7d_price": 165.77,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "g1-RC5",
    "current_price": 60.86,
    "pred_7d_pct": 0.1,
@@ -7601,10 +8225,22 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sv2-201",
-   "current_price": 59.13,
-   "pred_7d_pct": 0.1,
-   "pred_7d_price": 59.19,
+   "card_id": "sv4pt5-232",
+   "current_price": 1060.12,
+   "pred_7d_pct": -0.1,
+   "pred_7d_price": 1059.04,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "S",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "sv5-206",
+   "current_price": 55.3,
+   "pred_7d_pct": -0.1,
+   "pred_7d_price": 55.24,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -7644,18 +8280,6 @@
    "direction": "flat",
    "confidence": "low",
    "tier": "S",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "swsh45sv-SV107",
-   "current_price": 144.19,
-   "pred_7d_pct": 0.1,
-   "pred_7d_price": 144.34,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -7709,6 +8333,18 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "base5-11",
+   "current_price": 99.04,
+   "pred_7d_pct": 0.09,
+   "pred_7d_price": 99.13,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "base5-21",
    "current_price": 175.72,
    "pred_7d_pct": 0.09,
@@ -7725,6 +8361,18 @@
    "current_price": 76.79,
    "pred_7d_pct": 0.09,
    "pred_7d_price": 76.86,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "bw11-RC24",
+   "current_price": 231.1,
+   "pred_7d_pct": -0.09,
+   "pred_7d_price": 230.9,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -7769,10 +8417,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sm75-78",
-   "current_price": 110.8,
-   "pred_7d_pct": 0.09,
-   "pred_7d_price": 110.9,
+   "card_id": "me1-182",
+   "current_price": 59.5,
+   "pred_7d_pct": -0.09,
+   "pred_7d_price": 59.45,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -7781,10 +8429,22 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sma-SV41",
-   "current_price": 53.88,
-   "pred_7d_pct": -0.09,
-   "pred_7d_price": 53.83,
+   "card_id": "sm12-245",
+   "current_price": 76.4,
+   "pred_7d_pct": 0.09,
+   "pred_7d_price": 76.47,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "sm75-78",
+   "current_price": 110.8,
+   "pred_7d_pct": 0.09,
+   "pred_7d_price": 110.9,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -7805,10 +8465,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "smp-SM201",
-   "current_price": 197.0,
+   "card_id": "swsh10-177",
+   "current_price": 65.44,
    "pred_7d_pct": -0.09,
-   "pred_7d_price": 196.82,
+   "pred_7d_price": 65.38,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -7817,13 +8477,13 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sv4-206",
-   "current_price": 50.81,
+   "card_id": "swsh11tg-TG06",
+   "current_price": 56.74,
    "pred_7d_pct": -0.09,
-   "pred_7d_price": 50.77,
+   "pred_7d_price": 56.69,
    "direction": "flat",
    "confidence": "low",
-   "tier": "B",
+   "tier": "A",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -7961,10 +8621,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sm12-245",
-   "current_price": 76.36,
+   "card_id": "sm12-230",
+   "current_price": 179.08,
    "pred_7d_pct": 0.08,
-   "pred_7d_price": 76.42,
+   "pred_7d_price": 179.23,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -7985,6 +8645,18 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "sv1-245",
+   "current_price": 75.8,
+   "pred_7d_pct": 0.08,
+   "pred_7d_price": 75.86,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": true,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "sv10-234",
    "current_price": 67.69,
    "pred_7d_pct": -0.08,
@@ -7997,10 +8669,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sv8-237",
-   "current_price": 129.26,
-   "pred_7d_pct": -0.08,
-   "pred_7d_price": 129.16,
+   "card_id": "sv5-177",
+   "current_price": 101.49,
+   "pred_7d_pct": 0.08,
+   "pred_7d_price": 101.57,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -8010,9 +8682,9 @@
   },
   {
    "card_id": "sv8pt5-153",
-   "current_price": 207.21,
+   "current_price": 207.15,
    "pred_7d_pct": -0.08,
-   "pred_7d_price": 207.05,
+   "pred_7d_price": 206.98,
    "direction": "flat",
    "confidence": "low",
    "tier": "S",
@@ -8046,21 +8718,9 @@
   },
   {
    "card_id": "xy12-102",
-   "current_price": 66.91,
+   "current_price": 66.9,
    "pred_7d_pct": 0.08,
-   "pred_7d_price": 66.96,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "xy8-63",
-   "current_price": 52.49,
-   "pred_7d_pct": -0.08,
-   "pred_7d_price": 52.45,
+   "pred_7d_price": 66.95,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -8117,18 +8777,6 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sm12-230",
-   "current_price": 178.93,
-   "pred_7d_pct": 0.07,
-   "pred_7d_price": 179.05,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "sm5-153",
    "current_price": 158.69,
    "pred_7d_pct": 0.07,
@@ -8165,10 +8813,22 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "xy12-11",
-   "current_price": 108.34,
+   "card_id": "sv8pt5-149",
+   "current_price": 303.43,
+   "pred_7d_pct": -0.07,
+   "pred_7d_price": 303.2,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "S",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "swsh45sv-SV107",
+   "current_price": 143.98,
    "pred_7d_pct": 0.07,
-   "pred_7d_price": 108.41,
+   "pred_7d_price": 144.08,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -8177,13 +8837,13 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "xy7-97",
-   "current_price": 315.91,
+   "card_id": "xyp-XY109",
+   "current_price": 55.55,
    "pred_7d_pct": 0.07,
-   "pred_7d_price": 316.15,
+   "pred_7d_price": 55.59,
    "direction": "flat",
    "confidence": "low",
-   "tier": "S",
+   "tier": "A",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -8193,6 +8853,18 @@
    "current_price": 55.62,
    "pred_7d_pct": 0.06,
    "pred_7d_price": 55.65,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "dp7-100",
+   "current_price": 99.99,
+   "pred_7d_pct": 0.06,
+   "pred_7d_price": 100.05,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -8249,10 +8921,34 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "sm12-226",
+   "current_price": 248.16,
+   "pred_7d_pct": 0.06,
+   "pred_7d_price": 248.31,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "S",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "sm5-154",
    "current_price": 57.64,
    "pred_7d_pct": 0.06,
    "pred_7d_price": 57.67,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "sv3pt5-175",
+   "current_price": 74.41,
+   "pred_7d_pct": -0.06,
+   "pred_7d_price": 74.37,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -8273,38 +8969,14 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sv5-177",
-   "current_price": 101.36,
-   "pred_7d_pct": 0.06,
-   "pred_7d_price": 101.42,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "sv5-204",
-   "current_price": 58.0,
+   "card_id": "swsh11-186",
+   "current_price": 856.93,
    "pred_7d_pct": -0.06,
-   "pred_7d_price": 57.97,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "sv8pt5-161",
-   "current_price": 1509.18,
-   "pred_7d_pct": 0.06,
-   "pred_7d_price": 1510.04,
+   "pred_7d_price": 856.43,
    "direction": "flat",
    "confidence": "low",
    "tier": "S",
-   "meta_card": true,
+   "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
   },
@@ -8321,10 +8993,22 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "swsh7-211",
-   "current_price": 58.41,
+   "card_id": "swshp-SWSH182",
+   "current_price": 92.1,
    "pred_7d_pct": -0.06,
-   "pred_7d_price": 58.38,
+   "pred_7d_price": 92.05,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "xy7-91",
+   "current_price": 106.49,
+   "pred_7d_pct": -0.06,
+   "pred_7d_price": 106.42,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -8337,18 +9021,6 @@
    "current_price": 67.78,
    "pred_7d_pct": 0.05,
    "pred_7d_price": 67.82,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "base5-20",
-   "current_price": 70.81,
-   "pred_7d_pct": 0.05,
-   "pred_7d_price": 70.85,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -8393,18 +9065,6 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "ecard3-21",
-   "current_price": 192.48,
-   "pred_7d_pct": 0.05,
-   "pred_7d_price": 192.57,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "g1-RC6",
    "current_price": 84.43,
    "pred_7d_pct": 0.05,
@@ -8417,22 +9077,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "me1-177",
-   "current_price": 155.15,
-   "pred_7d_pct": 0.05,
-   "pred_7d_price": 155.23,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "np-11",
-   "current_price": 85.18,
+   "current_price": 85.14,
    "pred_7d_pct": 0.05,
-   "pred_7d_price": 85.23,
+   "pred_7d_price": 85.18,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -8477,22 +9125,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "svp-85",
-   "current_price": 1099.62,
+   "card_id": "sv4pt5-131",
+   "current_price": 85.03,
    "pred_7d_pct": 0.05,
-   "pred_7d_price": 1100.18,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "S",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "swsh10-177",
-   "current_price": 65.56,
-   "pred_7d_pct": -0.05,
-   "pred_7d_price": 65.53,
+   "pred_7d_price": 85.07,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -8501,10 +9137,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "swsh35-74",
-   "current_price": 233.14,
-   "pred_7d_pct": -0.05,
-   "pred_7d_price": 233.02,
+   "card_id": "svp-85",
+   "current_price": 1099.62,
+   "pred_7d_pct": 0.05,
+   "pred_7d_price": 1100.18,
    "direction": "flat",
    "confidence": "low",
    "tier": "S",
@@ -8525,13 +9161,13 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "swsh7-180",
-   "current_price": 247.3,
+   "card_id": "swsh7-211",
+   "current_price": 58.74,
    "pred_7d_pct": 0.05,
-   "pred_7d_price": 247.41,
+   "pred_7d_price": 58.77,
    "direction": "flat",
    "confidence": "low",
-   "tier": "S",
+   "tier": "A",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -8561,6 +9197,18 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "xy5-150",
+   "current_price": 140.66,
+   "pred_7d_pct": 0.05,
+   "pred_7d_price": 140.72,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "xyp-XY166",
    "current_price": 271.99,
    "pred_7d_pct": -0.05,
@@ -8585,10 +9233,34 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "base2-20",
+   "current_price": 54.9,
+   "pred_7d_pct": -0.04,
+   "pred_7d_price": 54.88,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "base3-19",
    "current_price": 101.94,
    "pred_7d_pct": -0.04,
    "pred_7d_price": 101.9,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "base5-12",
+   "current_price": 96.08,
+   "pred_7d_pct": -0.04,
+   "pred_7d_price": 96.04,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -8609,10 +9281,34 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "ex10-102",
+   "current_price": 333.59,
+   "pred_7d_pct": 0.04,
+   "pred_7d_price": 333.72,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "S",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "sm10-218",
    "current_price": 102.75,
    "pred_7d_pct": 0.04,
    "pred_7d_price": 102.79,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "sm12-38",
+   "current_price": 79.84,
+   "pred_7d_pct": 0.04,
+   "pred_7d_price": 79.87,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -8657,10 +9353,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "swsh11tg-TG16",
-   "current_price": 134.43,
-   "pred_7d_pct": -0.04,
-   "pred_7d_price": 134.37,
+   "card_id": "smp-SM193",
+   "current_price": 99.01,
+   "pred_7d_pct": 0.04,
+   "pred_7d_price": 99.05,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -8705,6 +9401,18 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "xy3-112",
+   "current_price": 54.49,
+   "pred_7d_pct": -0.04,
+   "pred_7d_price": 54.47,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "xy5-154",
    "current_price": 94.11,
    "pred_7d_pct": 0.04,
@@ -8729,10 +9437,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "ex11-14",
-   "current_price": 86.68,
+   "card_id": "ex9-4",
+   "current_price": 149.2,
    "pred_7d_pct": 0.03,
-   "pred_7d_price": 86.71,
+   "pred_7d_price": 149.24,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -8753,10 +9461,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "g1-RC32",
-   "current_price": 183.09,
+   "card_id": "neo4-56",
+   "current_price": 59.51,
    "pred_7d_pct": -0.03,
-   "pred_7d_price": 183.04,
+   "pred_7d_price": 59.49,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -8765,10 +9473,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "neo4-56",
-   "current_price": 59.51,
-   "pred_7d_pct": -0.03,
-   "pred_7d_price": 59.49,
+   "card_id": "rsv10pt5-105",
+   "current_price": 93.11,
+   "pred_7d_pct": 0.03,
+   "pred_7d_price": 93.14,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -8813,10 +9521,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "smp-SM169",
-   "current_price": 178.18,
+   "card_id": "sma-SV53",
+   "current_price": 52.94,
    "pred_7d_pct": 0.03,
-   "pred_7d_price": 178.24,
+   "pred_7d_price": 52.95,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -8825,13 +9533,13 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "smp-SM191",
-   "current_price": 338.45,
+   "card_id": "smp-SM169",
+   "current_price": 178.18,
    "pred_7d_pct": 0.03,
-   "pred_7d_price": 338.57,
+   "pred_7d_price": 178.24,
    "direction": "flat",
    "confidence": "low",
-   "tier": "S",
+   "tier": "A",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -8849,37 +9557,37 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sv8pt5-149",
-   "current_price": 304.15,
+   "card_id": "swsh10tg-TG13",
+   "current_price": 130.71,
    "pred_7d_pct": -0.03,
-   "pred_7d_price": 304.06,
+   "pred_7d_price": 130.67,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "swsh12pt5gg-GG36",
+   "current_price": 52.04,
+   "pred_7d_pct": 0.03,
+   "pred_7d_price": 52.06,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "swsh35-74",
+   "current_price": 233.41,
+   "pred_7d_pct": -0.03,
+   "pred_7d_price": 233.35,
    "direction": "flat",
    "confidence": "low",
    "tier": "S",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "swsh10tg-TG13",
-   "current_price": 131.11,
-   "pred_7d_pct": 0.03,
-   "pred_7d_price": 131.14,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "swsh10tg-TG23",
-   "current_price": 83.71,
-   "pred_7d_pct": 0.03,
-   "pred_7d_price": 83.73,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -8897,13 +9605,13 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "swsh5-170",
-   "current_price": 78.07,
-   "pred_7d_pct": 0.03,
-   "pred_7d_price": 78.1,
+   "card_id": "swsh7-180",
+   "current_price": 246.37,
+   "pred_7d_pct": -0.03,
+   "pred_7d_price": 246.3,
    "direction": "flat",
    "confidence": "low",
-   "tier": "A",
+   "tier": "S",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -9005,6 +9713,18 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "bw11-RC23",
+   "current_price": 83.79,
+   "pred_7d_pct": 0.02,
+   "pred_7d_price": 83.81,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "dp7-97",
    "current_price": 58.18,
    "pred_7d_pct": 0.02,
@@ -9041,10 +9761,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sm12-38",
-   "current_price": 79.77,
-   "pred_7d_pct": 0.02,
-   "pred_7d_price": 79.79,
+   "card_id": "sm115-68",
+   "current_price": 80.6,
+   "pred_7d_pct": -0.02,
+   "pred_7d_price": 80.58,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -9066,9 +9786,9 @@
   },
   {
    "card_id": "sm9-159",
-   "current_price": 62.87,
+   "current_price": 62.89,
    "pred_7d_pct": 0.02,
-   "pred_7d_price": 62.88,
+   "pred_7d_price": 62.91,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -9101,22 +9821,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sv5-193",
-   "current_price": 62.76,
+   "card_id": "sv3pt5-169",
+   "current_price": 60.3,
    "pred_7d_pct": -0.02,
-   "pred_7d_price": 62.75,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "sv7-148",
-   "current_price": 118.13,
-   "pred_7d_pct": -0.02,
-   "pred_7d_price": 118.1,
+   "pred_7d_price": 60.29,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -9137,13 +9845,13 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "swsh11-186",
-   "current_price": 858.62,
+   "card_id": "swsh5-146",
+   "current_price": 72.02,
    "pred_7d_pct": -0.02,
-   "pred_7d_price": 858.45,
+   "pred_7d_price": 72.01,
    "direction": "flat",
    "confidence": "low",
-   "tier": "S",
+   "tier": "A",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -9162,9 +9870,9 @@
   },
   {
    "card_id": "swsh6-179",
-   "current_price": 109.95,
-   "pred_7d_pct": 0.02,
-   "pred_7d_price": 109.97,
+   "current_price": 109.75,
+   "pred_7d_pct": -0.02,
+   "pred_7d_price": 109.73,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -9173,10 +9881,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "swsh8-269",
-   "current_price": 275.47,
-   "pred_7d_pct": -0.02,
-   "pred_7d_price": 275.41,
+   "card_id": "swsh7-189",
+   "current_price": 395.04,
+   "pred_7d_pct": 0.02,
+   "pred_7d_price": 395.13,
    "direction": "flat",
    "confidence": "low",
    "tier": "S",
@@ -9185,22 +9893,22 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "swsh9tg-TG14",
-   "current_price": 79.67,
-   "pred_7d_pct": -0.02,
-   "pred_7d_price": 79.65,
+   "card_id": "swsh9-154",
+   "current_price": 334.76,
+   "pred_7d_pct": 0.02,
+   "pred_7d_price": 334.84,
    "direction": "flat",
    "confidence": "low",
-   "tier": "A",
+   "tier": "S",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
   },
   {
    "card_id": "xy2-105",
-   "current_price": 57.16,
+   "current_price": 57.15,
    "pred_7d_pct": -0.02,
-   "pred_7d_price": 57.15,
+   "pred_7d_price": 57.14,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -9245,10 +9953,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "basep-43",
-   "current_price": 72.01,
+   "card_id": "basep-28",
+   "current_price": 70.29,
    "pred_7d_pct": -0.01,
-   "pred_7d_price": 72.0,
+   "pred_7d_price": 70.28,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -9257,10 +9965,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "bw11-RC23",
-   "current_price": 83.65,
+   "card_id": "basep-43",
+   "current_price": 72.01,
    "pred_7d_pct": -0.01,
-   "pred_7d_price": 83.64,
+   "pred_7d_price": 72.0,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -9365,70 +10073,22 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sv3pt5-168",
-   "current_price": 90.26,
-   "pred_7d_pct": -0.01,
-   "pred_7d_price": 90.25,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "sv4pt5-131",
-   "current_price": 84.74,
-   "pred_7d_pct": -0.01,
-   "pred_7d_price": 84.73,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "sv4pt5-232",
-   "current_price": 1065.49,
-   "pred_7d_pct": -0.01,
-   "pred_7d_price": 1065.44,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "S",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "swsh12pt5gg-GG44",
-   "current_price": 300.95,
-   "pred_7d_pct": -0.01,
-   "pred_7d_price": 300.92,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "S",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "swsh5-146",
-   "current_price": 72.05,
-   "pred_7d_pct": -0.01,
-   "pred_7d_price": 72.04,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "swsh7-167",
-   "current_price": 153.11,
+   "card_id": "sv7-148",
+   "current_price": 118.37,
    "pred_7d_pct": 0.01,
-   "pred_7d_price": 153.13,
+   "pred_7d_price": 118.39,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
+   "card_id": "swsh5-170",
+   "current_price": 77.88,
+   "pred_7d_pct": -0.01,
+   "pred_7d_price": 77.87,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -9473,34 +10133,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "xy7-21",
-   "current_price": 65.43,
-   "pred_7d_pct": -0.01,
-   "pred_7d_price": 65.43,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "xy7-88",
    "current_price": 77.17,
    "pred_7d_pct": 0.01,
    "pred_7d_price": 77.18,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "xyp-XY109",
-   "current_price": 55.39,
-   "pred_7d_pct": 0.01,
-   "pred_7d_price": 55.4,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -9621,30 +10257,6 @@
    "current_price": 55.43,
    "pred_7d_pct": 0.0,
    "pred_7d_price": 55.43,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "base2-20",
-   "current_price": 55.02,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 55.02,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "base2-3",
-   "current_price": 143.56,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 143.56,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -9833,30 +10445,6 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "base5-11",
-   "current_price": 98.57,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 98.57,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "base5-12",
-   "current_price": 96.3,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 96.3,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "base5-13",
    "current_price": 65.14,
    "pred_7d_pct": 0.0,
@@ -9912,18 +10500,6 @@
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "base5-83",
-   "current_price": 278.87,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 278.87,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "S",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -10625,18 +11201,6 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "base6-62",
-   "current_price": 86.0,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 86.0,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "base6-63",
    "current_price": 80.06,
    "pred_7d_pct": 0.0,
@@ -10809,18 +11373,6 @@
    "current_price": 87.5,
    "pred_7d_pct": 0.0,
    "pred_7d_price": 87.5,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "base6-78",
-   "current_price": 78.0,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 78.0,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -11405,18 +11957,6 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "bw3-101",
-   "current_price": 233.55,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 233.55,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "S",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "bw4-100",
    "current_price": 138.66,
    "pred_7d_pct": 0.0,
@@ -11484,18 +12024,6 @@
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "bw4-96",
-   "current_price": 248.99,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 248.99,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "S",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -12149,30 +12677,6 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "bw9-64",
-   "current_price": 129.99,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 129.99,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "bwp-BW12",
-   "current_price": 70.47,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 70.47,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "bwp-BW14",
    "current_price": 57.59,
    "pred_7d_pct": 0.0,
@@ -12689,18 +13193,6 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "dp2-2",
-   "current_price": 58.4,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 58.4,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "dp2-7",
    "current_price": 56.36,
    "pred_7d_pct": 0.0,
@@ -13121,18 +13613,6 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "dp7-100",
-   "current_price": 99.66,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 99.66,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "dp7-101",
    "current_price": 166.81,
    "pred_7d_pct": 0.0,
@@ -13185,18 +13665,6 @@
    "current_price": 66.26,
    "pred_7d_pct": 0.0,
    "pred_7d_price": 66.26,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "dp7-98",
-   "current_price": 64.05,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 64.05,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -13500,18 +13968,6 @@
    "direction": "flat",
    "confidence": "low",
    "tier": "S",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "ecard1-121",
-   "current_price": 74.52,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 74.52,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -14148,18 +14604,6 @@
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "ecard1-86",
-   "current_price": 53.34,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 53.34,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "B",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -14921,18 +15365,6 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "ecard2-94",
-   "current_price": 74.99,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 74.99,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "ecard2-96",
    "current_price": 79.99,
    "pred_7d_pct": 0.0,
@@ -15533,6 +15965,18 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "ecard3-21",
+   "current_price": 192.48,
+   "pred_7d_pct": 0.0,
+   "pred_7d_price": 192.48,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "ecard3-23",
    "current_price": 55.63,
    "pred_7d_pct": 0.0,
@@ -15777,18 +16221,6 @@
    "current_price": 149.99,
    "pred_7d_pct": 0.0,
    "pred_7d_price": 149.99,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "ecard3-46",
-   "current_price": 147.77,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 147.77,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -16673,18 +17105,6 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "ex10-102",
-   "current_price": 332.94,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 332.94,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "S",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "ex10-103",
    "current_price": 175.0,
    "pred_7d_pct": 0.0,
@@ -17429,18 +17849,6 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "ex11-63",
-   "current_price": 232.66,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 232.66,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "S",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "ex11-64",
    "current_price": 164.56,
    "pred_7d_pct": 0.0,
@@ -17481,18 +17889,6 @@
    "current_price": 275.0,
    "pred_7d_pct": 0.0,
    "pred_7d_price": 275.0,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "ex11-77",
-   "current_price": 64.1,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 64.1,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -18185,18 +18581,6 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "ex13-83",
-   "current_price": 56.9,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 56.9,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "ex13-9",
    "current_price": 124.94,
    "pred_7d_pct": 0.0,
@@ -18228,18 +18612,6 @@
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "ex14-100",
-   "current_price": 950.0,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 950.0,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "S",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -18629,18 +19001,6 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "ex15-71",
-   "current_price": 69.36,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 69.36,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "ex15-90",
    "current_price": 95.4,
    "pred_7d_pct": 0.0,
@@ -18768,18 +19128,6 @@
    "direction": "flat",
    "confidence": "low",
    "tier": "S",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "ex16-12",
-   "current_price": 69.97,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 69.97,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -19320,18 +19668,6 @@
    "direction": "flat",
    "confidence": "low",
    "tier": "S",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "ex3-99",
-   "current_price": 93.87,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 93.87,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -20033,18 +20369,6 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "ex6-67",
-   "current_price": 151.13,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 151.13,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "ex6-74",
    "current_price": 159.26,
    "pred_7d_pct": 0.0,
@@ -20357,18 +20681,6 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "ex7-25",
-   "current_price": 54.89,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 54.89,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "ex7-26",
    "current_price": 84.54,
    "pred_7d_pct": 0.0,
@@ -20673,18 +20985,6 @@
    "current_price": 88.49,
    "pred_7d_pct": 0.0,
    "pred_7d_price": 88.49,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "ex7-65",
-   "current_price": 195.7,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 195.7,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -21365,18 +21665,6 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "ex9-4",
-   "current_price": 148.99,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 148.99,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "ex9-5",
    "current_price": 210.5,
    "pred_7d_pct": 0.0,
@@ -21477,18 +21765,6 @@
    "current_price": 94.99,
    "pred_7d_pct": 0.0,
    "pred_7d_price": 94.99,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "ex9-72",
-   "current_price": 53.23,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 53.23,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -22145,6 +22421,18 @@
    "as_of": "2026-07-29"
   },
   {
+   "card_id": "hgss1-113",
+   "current_price": 348.99,
+   "pred_7d_pct": 0.0,
+   "pred_7d_price": 348.99,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "S",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-07-29"
+  },
+  {
    "card_id": "hgss1-115",
    "current_price": 999.0,
    "pred_7d_pct": 0.0,
@@ -22248,18 +22536,6 @@
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "hgss2-88",
-   "current_price": 214.33,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 214.33,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "S",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -22505,18 +22781,6 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "hgss4-18",
-   "current_price": 131.06,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 131.06,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "hgss4-35",
    "current_price": 61.11,
    "pred_7d_pct": 0.0,
@@ -22608,30 +22872,6 @@
    "direction": "flat",
    "confidence": "low",
    "tier": "S",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "hsp-HGSS20",
-   "current_price": 64.83,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 64.83,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "hsp-HGSS21",
-   "current_price": 60.13,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 60.13,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -23289,18 +23529,6 @@
    "current_price": 425.0,
    "pred_7d_pct": 0.0,
    "pred_7d_price": 425.0,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "S",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "neo4-5",
-   "current_price": 369.99,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 369.99,
    "direction": "flat",
    "confidence": "low",
    "tier": "S",
@@ -24389,18 +24617,6 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "rsv10pt5-105",
-   "current_price": 92.95,
-   "pred_7d_pct": -0.0,
-   "pred_7d_price": 92.95,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "rsv10pt5-107",
    "current_price": 52.59,
    "pred_7d_pct": 0.0,
@@ -24665,18 +24881,6 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sm10-197",
-   "current_price": 108.63,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 108.63,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "sm10-199",
    "current_price": 233.75,
    "pred_7d_pct": 0.0,
@@ -24881,18 +25085,6 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sm12-226",
-   "current_price": 247.39,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 247.39,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "S",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "sm12-228",
    "current_price": 205.83,
    "pred_7d_pct": 0.0,
@@ -24936,18 +25128,6 @@
    "direction": "flat",
    "confidence": "low",
    "tier": "S",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "sm12-250",
-   "current_price": 62.51,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 62.51,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -25157,18 +25337,6 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sm7-153",
-   "current_price": 58.76,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 58.76,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "sm7-160",
    "current_price": 114.53,
    "pred_7d_pct": 0.0,
@@ -25217,10 +25385,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sm7-175",
-   "current_price": 78.13,
+   "card_id": "sm75-67",
+   "current_price": 64.76,
    "pred_7d_pct": 0.0,
-   "pred_7d_price": 78.13,
+   "pred_7d_price": 64.76,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -25229,10 +25397,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sm75-67",
-   "current_price": 64.76,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 64.76,
+   "card_id": "sm75-70",
+   "current_price": 60.82,
+   "pred_7d_pct": -0.0,
+   "pred_7d_price": 60.82,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -25265,18 +25433,6 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sm8-210",
-   "current_price": 55.51,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 55.51,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "sm8-211",
    "current_price": 86.22,
    "pred_7d_pct": 0.0,
@@ -25293,18 +25449,6 @@
    "current_price": 89.39,
    "pred_7d_pct": 0.0,
    "pred_7d_price": 89.39,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "sm8-215",
-   "current_price": 103.11,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 103.11,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -25409,30 +25553,6 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "sm9-185",
-   "current_price": 53.49,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 53.49,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "sma-SV49",
-   "current_price": 756.84,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 756.84,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "S",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "sma-SV51",
    "current_price": 65.36,
    "pred_7d_pct": 0.0,
@@ -25494,9 +25614,9 @@
   },
   {
    "card_id": "sma-SV70",
-   "current_price": 99.79,
+   "current_price": 99.81,
    "pred_7d_pct": 0.0,
-   "pred_7d_price": 99.79,
+   "pred_7d_price": 99.81,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -25565,18 +25685,6 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "smp-SM193",
-   "current_price": 98.8,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 98.8,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "smp-SM231",
    "current_price": 250.49,
    "pred_7d_pct": 0.0,
@@ -25608,18 +25716,6 @@
    "direction": "flat",
    "confidence": "low",
    "tier": "B",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "sv2-226",
-   "current_price": 99.92,
-   "pred_7d_pct": -0.0,
-   "pred_7d_price": 99.92,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -25661,34 +25757,10 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "swsh7-189",
-   "current_price": 394.56,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 394.56,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "S",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "swsh8-270",
    "current_price": 345.99,
    "pred_7d_pct": 0.0,
    "pred_7d_price": 345.99,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "S",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "swsh9-154",
-   "current_price": 334.37,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 334.37,
    "direction": "flat",
    "confidence": "low",
    "tier": "S",
@@ -25776,18 +25848,6 @@
    "direction": "flat",
    "confidence": "low",
    "tier": "S",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
-   "card_id": "swshp-SWSH303",
-   "current_price": 56.84,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 56.84,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
@@ -25889,18 +25949,6 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "xy4-121",
-   "current_price": 524.6,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 524.6,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "S",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "xy4-122",
    "current_price": 986.98,
    "pred_7d_pct": 0.0,
@@ -25937,18 +25985,6 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "xy5-150",
-   "current_price": 140.33,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 140.33,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "xy6-100",
    "current_price": 57.06,
    "pred_7d_pct": 0.0,
@@ -25973,18 +26009,6 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "xy7-91",
-   "current_price": 106.83,
-   "pred_7d_pct": 0.0,
-   "pred_7d_price": 106.83,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-07-29"
-  },
-  {
    "card_id": "xy7-93",
    "current_price": 146.81,
    "pred_7d_pct": 0.0,
@@ -25997,22 +26021,22 @@
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "xy7-98",
-   "current_price": 985.36,
+   "card_id": "xy8-159",
+   "current_price": 130.11,
    "pred_7d_pct": 0.0,
-   "pred_7d_price": 985.36,
+   "pred_7d_price": 130.11,
    "direction": "flat",
    "confidence": "low",
-   "tier": "S",
+   "tier": "A",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-07-29"
   },
   {
-   "card_id": "xy8-159",
-   "current_price": 130.11,
+   "card_id": "xy8-63",
+   "current_price": 52.7,
    "pred_7d_pct": 0.0,
-   "pred_7d_price": 130.11,
+   "pred_7d_price": 52.7,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
