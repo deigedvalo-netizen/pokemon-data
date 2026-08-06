@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-06T05:04:08Z",
+ "generated": "2026-08-06T15:58:55Z",
  "horizon_days": 7,
  "count": 2199,
  "disclaimer": "Early-stage statistical estimates, not financial advice.",
@@ -468,18 +468,6 @@
    "direction": "up",
    "confidence": "low",
    "tier": "S",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-08-06"
-  },
-  {
-   "card_id": "gym2-8",
-   "current_price": 249.99,
-   "pred_7d_pct": 5.43,
-   "pred_7d_price": 263.56,
-   "direction": "up",
-   "confidence": "low",
-   "tier": "A",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-08-06"
@@ -1104,18 +1092,6 @@
    "direction": "down",
    "confidence": "low",
    "tier": "S",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-08-06"
-  },
-  {
-   "card_id": "hgss3-2",
-   "current_price": 73.75,
-   "pred_7d_pct": 1.95,
-   "pred_7d_price": 75.18,
-   "direction": "up",
-   "confidence": "low",
-   "tier": "A",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-08-06"
@@ -2705,18 +2681,6 @@
    "as_of": "2026-08-06"
   },
   {
-   "card_id": "si1-11",
-   "current_price": 143.0,
-   "pred_7d_pct": 0.8,
-   "pred_7d_price": 144.14,
-   "direction": "up",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-08-06"
-  },
-  {
    "card_id": "sm11-231",
    "current_price": 58.4,
    "pred_7d_pct": 0.8,
@@ -3072,18 +3036,6 @@
    "direction": "down",
    "confidence": "low",
    "tier": "S",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-08-06"
-  },
-  {
-   "card_id": "ex4-10",
-   "current_price": 157.52,
-   "pred_7d_pct": 0.67,
-   "pred_7d_price": 158.58,
-   "direction": "up",
-   "confidence": "low",
-   "tier": "A",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-08-06"
@@ -5345,6 +5297,18 @@
    "as_of": "2026-08-06"
   },
   {
+   "card_id": "si1-11",
+   "current_price": 143.0,
+   "pred_7d_pct": 0.33,
+   "pred_7d_price": 143.47,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-08-06"
+  },
+  {
    "card_id": "sv10-233",
    "current_price": 108.65,
    "pred_7d_pct": 0.33,
@@ -6933,18 +6897,6 @@
    "current_price": 96.0,
    "pred_7d_pct": 0.17,
    "pred_7d_price": 96.16,
-   "direction": "flat",
-   "confidence": "low",
-   "tier": "A",
-   "meta_card": false,
-   "model": "blend-v1",
-   "as_of": "2026-08-06"
-  },
-  {
-   "card_id": "gym1-8",
-   "current_price": 87.37,
-   "pred_7d_pct": 0.17,
-   "pred_7d_price": 87.52,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
@@ -19613,6 +19565,18 @@
    "as_of": "2026-08-06"
   },
   {
+   "card_id": "ex4-10",
+   "current_price": 157.52,
+   "pred_7d_pct": 0.0,
+   "pred_7d_price": 157.52,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-08-06"
+  },
+  {
    "card_id": "ex4-23",
    "current_price": 67.6,
    "pred_7d_pct": 0.0,
@@ -22133,6 +22097,18 @@
    "as_of": "2026-08-06"
   },
   {
+   "card_id": "gym1-8",
+   "current_price": 87.37,
+   "pred_7d_pct": 0.0,
+   "pred_7d_price": 87.37,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-08-06"
+  },
+  {
    "card_id": "gym1-9",
    "current_price": 137.61,
    "pred_7d_pct": 0.0,
@@ -22296,6 +22272,18 @@
    "direction": "flat",
    "confidence": "low",
    "tier": "S",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-08-06"
+  },
+  {
+   "card_id": "gym2-8",
+   "current_price": 249.99,
+   "pred_7d_pct": 0.0,
+   "pred_7d_price": 249.99,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
    "meta_card": false,
    "model": "blend-v1",
    "as_of": "2026-08-06"
@@ -22521,6 +22509,18 @@
    "current_price": 199.99,
    "pred_7d_pct": 0.0,
    "pred_7d_price": 199.99,
+   "direction": "flat",
+   "confidence": "low",
+   "tier": "A",
+   "meta_card": false,
+   "model": "blend-v1",
+   "as_of": "2026-08-06"
+  },
+  {
+   "card_id": "hgss3-2",
+   "current_price": 73.75,
+   "pred_7d_pct": 0.0,
+   "pred_7d_price": 73.75,
    "direction": "flat",
    "confidence": "low",
    "tier": "A",
